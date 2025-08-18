@@ -1,0 +1,38 @@
+{
+  "status": true,
+  "message": "Feedback data retrieved successfully",
+  "data": [
+    {
+      "id": 1,
+      "date": "2025-08-18",
+      "recipient": "john.doe@company.com",
+      "requester": "jane.smith@company.com",
+      "message": "Great job on the project presentation! The slides were well-organized and the delivery was confident.",
+      "isAnswered": 1
+    },
+    {
+      "id": 2,
+      "date": "2025-08-17",
+      "recipient": "alice.johnson@company.com",
+      "requester": "bob.wilson@company.com",
+      "message": "Could you provide more details on the implementation timeline for the new feature?",
+      "isAnswered": 0
+    },
+    {
+      "id": 3,
+      "date": "2025-08-16",
+      "recipient": "mike.brown@company.com",
+      "requester": "sarah.davis@company.com",
+      "message": "The code review feedback was very helpful. Thanks for the thorough analysis.",
+      "isAnswered": 1
+    },
+    {
+      "id": 4,
+      "date": "2025-08-15",
+      "recipient": "emily.white@company.com",
+      "requester": "david.clark@company.com",
+      "message": "Please review the updated design mockups and let me know your thoughts.",
+      "isAnswered": 0
+    }
+  ]
+}
