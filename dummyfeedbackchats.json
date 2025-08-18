@@ -1,0 +1,45 @@
+{
+  "status": true,
+  "message": "Feedback data retrieved successfully",
+  "data": [
+    {
+    "id": 1,
+    "sender": 1,
+    "message":
+        "Halo, saya ingin menanyakan tentang feedback yang saya kirim minggu lalu.",
+    "timestamp": "2025-08-15T10:15:00Z",
+    "isRead": 1
+  },
+  {
+    "id": 2,
+    "sender": 0,
+    "message":
+        "Halo! Terima kasih sudah mengirim feedback. Bisa dijelaskan lebih detail masalahnya?",
+    "timestamp": "2025-08-15T10:17:00Z",
+    "isRead": 1
+  },
+  {
+    "id": 3,
+    "sender": 1,
+    "message":
+        "Tentu, ada beberapa kendala di sistem absensi yang ingin saya laporkan.",
+    "timestamp": "2025-08-15T10:20:00Z",
+    "isRead": 1
+  },
+  {
+    "id": 4,
+    "sender": 0,
+    "message":
+        "Baik, kami akan menindaklanjuti masalah ini segera. Terima kasih atas laporannya.",
+    "timestamp": "2025-08-15T10:25:00Z",
+    "isRead": 1
+  },
+  {
+    "id": 5,
+    "sender": 1,
+    "message": "Terima kasih banyak!",
+    "timestamp": "2025-08-15T10:26:00Z",
+    "isRead": 0
+  }
+  ]
+}
