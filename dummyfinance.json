@@ -1,0 +1,314 @@
+{
+    "status":true,
+    "message":"okay",
+    "data":[
+  {
+    "id": 101,
+    "permintaan": "Pengadaan ATK untuk kantor",
+    "note": "Mohon disetujui secepatnya, ini untuk kebutuhan operasional bulan ini.",
+    "status": 1,
+    "tanggal_akhir": "2025-08-31T00:00:00.000Z",
+    "jenis": 2,
+    "gambar": [
+      {
+        "id_gambar": 1,
+        "permintaan_finance_id": 101,
+        "url": "https://example.com/images/permintaan1.jpg",
+        "jenis_bukti": 0
+      },
+      {
+        "id_gambar": 2,
+        "permintaan_finance_id": 101,
+        "url": "https://example.com/images/permintaan2.jpg",
+        "jenis_bukti": 0
+      }
+    ],
+    "gambar_tanggapan": [
+      {
+        "id_gambar": 3,
+        "permintaan_finance_id": 101,
+        "url": "https://example.com/images/tanggapan1.jpg",
+        "jenis_bukti": 1
+      }
+    ],
+    "jenis_label": "Permintaan Barang",
+    "kepada_label": "Bagian Keuangan",
+    "tanggal_akhir_format": "31 Agustus 2025",
+    "tanggal_tanggapan_format": "14 Agustus 2025",
+    "status_label": "Disetujui",
+    "data_struk": [
+      {
+        "id": "STRK001",
+        "title": "Pembelian Alat Tulis Kantor",
+        "amount": 150000,
+        "approve": 1,
+        "approve_amount": 150000,
+        "pic": "https://example.com/images/struk1.jpg"
+      },
+      {
+        "id": "STRK002",
+        "title": "Pengadaan Minuman Rapat",
+        "amount": 80000,
+        "approve": 1,
+        "approve_amount": 75000,
+        "pic": "https://example.com/images/struk2.jpg"
+      },
+      {
+        "id": "STRK003",
+        "title": "Biaya Transportasi",
+        "amount": 120000,
+        "approve": 1,
+        "approve_amount": 120000,
+        "pic": "https://example.com/images/struk3.jpg"
+      },
+      {
+        "id": "STRK004",
+        "title": "Biaya Lain",
+        "amount": 12000000,
+        "approve": 2,
+        "approve_amount": 0,
+        "pic": "https://example.com/images/struk3=4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "permintaan": "Perbaikan sistem AC gedung utama",
+    "note": "AC di lantai 3 dan 4 tidak berfungsi, butuh perbaikan segera.",
+    "status": 1,
+    "tanggal_akhir": "2025-07-15T00:00:00.000Z",
+    "jenis": 3,
+    "gambar": [
+      {
+        "id_gambar": 4,
+        "permintaan_finance_id": 102,
+        "url": "https://example.com/images/ac_rusak.jpg",
+        "jenis_bukti": 0
+      }
+    ],
+    "gambar_tanggapan": [
+      {
+        "id_gambar": 5,
+        "permintaan_finance_id": 102,
+        "url": "https://example.com/images/ac_perbaikan.jpg",
+        "jenis_bukti": 1
+      }
+    ],
+    "jenis_label": "Pemeliharaan",
+    "kepada_label": "Bagian Fasilitas",
+    "tanggal_akhir_format": "15 Juli 2025",
+    "tanggal_tanggapan_format": "5 Juli 2025",
+    "status_label": "Disetujui",
+    "data_struk": [
+      {
+        "id": "STRK005",
+        "title": "Jasa Teknisi AC",
+        "amount": 2500000,
+        "approve": 1,
+        "approve_amount": 2500000,
+        "pic": "https://example.com/images/struk_teknisi.jpg"
+      },
+      {
+        "id": "STRK006",
+        "title": "Sparepart AC",
+        "amount": 4500000,
+        "approve": 1,
+        "approve_amount": 4300000,
+        "pic": "https://example.com/images/struk_sparepart.jpg"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "permintaan": "Pengadaan laptop untuk staf baru",
+    "note": "Butuh 5 unit laptop untuk staf yang mulai bulan depan.",
+    "status": 0,
+    "tanggal_akhir": "2025-08-20T00:00:00.000Z",
+    "jenis": 2,
+    "gambar": [
+      {
+        "id_gambar": 6,
+        "permintaan_finance_id": 103,
+        "url": "https://example.com/images/quote_laptop.pdf",
+        "jenis_bukti": 0
+      },
+      {
+        "id_gambar": 7,
+        "permintaan_finance_id": 103,
+        "url": "https://example.com/images/spesifikasi_laptop.jpg",
+        "jenis_bukti": 0
+      }
+    ],
+    "gambar_tanggapan": [],
+    "jenis_label": "Permintaan Barang",
+    "kepada_label": "Bagian Keuangan",
+    "tanggal_akhir_format": "20 Agustus 2025",
+    "tanggal_tanggapan_format": null,
+    "status_label": "Pending",
+    "data_struk": [
+      {
+        "id": "STRK007",
+        "title": "Laptop Tipe A",
+        "amount": 8500000,
+        "approve": 0,
+        "approve_amount": 0,
+        "pic": "https://example.com/images/laptop_a.jpg"
+      },
+      {
+        "id": "STRK008",
+        "title": "Laptop Tipe B",
+        "amount": 9500000,
+        "approve": 0,
+        "approve_amount": 0,
+        "pic": "https://example.com/images/laptop_b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "permintaan": "Biaya transportasi untuk kunjungan klien",
+    "note": "Perjalanan ke Surabaya untuk meeting dengan 3 klien potensial.",
+    "status": 2,
+    "tanggal_akhir": "2025-07-30T00:00:00.000Z",
+    "jenis": 1,
+    "gambar": [
+      {
+        "id_gambar": 8,
+        "permintaan_finance_id": 104,
+        "url": "https://example.com/images/tiket_pesawat.jpg",
+        "jenis_bukti": 0
+      },
+      {
+        "id_gambar": 9,
+        "permintaan_finance_id": 104,
+        "url": "https://example.com/images/hotel_booking.jpg",
+        "jenis_bukti": 0
+      }
+    ],
+    "gambar_tanggapan": [
+      {
+        "id_gambar": 10,
+        "permintaan_finance_id": 104,
+        "url": "https://example.com/images/penolakan_surat.jpg",
+        "jenis_bukti": 1
+      }
+    ],
+    "jenis_label": "Perjalanan Dinas",
+    "kepada_label": "Manajer Operasional",
+    "tanggal_akhir_format": "30 Juli 2025",
+    "tanggal_tanggapan_format": "25 Juli 2025",
+    "status_label": "Ditolak",
+    "data_struk": [
+      {
+        "id": "STRK009",
+        "title": "Tiket Pesawat PP",
+        "amount": 3200000,
+        "approve": 2,
+        "approve_amount": 0,
+        "pic": "https://example.com/images/tiket_pesawat.jpg"
+      },
+      {
+        "id": "STRK010",
+        "title": "Hotel 3 Malam",
+        "amount": 2700000,
+        "approve": 2,
+        "approve_amount": 0,
+        "pic": "https://example.com/images/hotel_bill.jpg"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "permintaan": "Renovasi ruang meeting lantai 2",
+    "note": "Perlu penambahan kapasitas dan upgrade sistem presentasi.",
+    "status": 1,
+    "tanggal_akhir": "2025-09-10T00:00:00.000Z",
+    "jenis": 3,
+    "gambar": [
+      {
+        "id_gambar": 11,
+        "permintaan_finance_id": 105,
+        "url": "https://example.com/images/ruang_meeting_lama.jpg",
+        "jenis_bukti": 0
+      },
+      {
+        "id_gambar": 12,
+        "permintaan_finance_id": 105,
+        "url": "https://example.com/images/desain_renovasi.pdf",
+        "jenis_bukti": 0
+      }
+    ],
+    "gambar_tanggapan": [
+      {
+        "id_gambar": 13,
+        "permintaan_finance_id": 105,
+        "url": "https://example.com/images/persetujuan_renovasi.jpg",
+        "jenis_bukti": 1
+      }
+    ],
+    "jenis_label": "Renovasi",
+    "kepada_label": "Komite Anggaran",
+    "tanggal_akhir_format": "10 September 2025",
+    "tanggal_tanggapan_format": "1 September 2025",
+    "status_label": "Disetujui",
+    "data_struk": [
+      {
+        "id": "STRK011",
+        "title": "Jasa Tukang",
+        "amount": 8500000,
+        "approve": 1,
+        "approve_amount": 8500000,
+        "pic": "https://example.com/images/struk_tukang.jpg"
+      },
+      {
+        "id": "STRK012",
+        "title": "Material Bangunan",
+        "amount": 12500000,
+        "approve": 1,
+        "approve_amount": 12000000,
+        "pic": "https://example.com/images/struk_material.jpg"
+      },
+      {
+        "id": "STRK013",
+        "title": "Peralatan Presentasi",
+        "amount": 7500000,
+        "approve": 1,
+        "approve_amount": 7500000,
+        "pic": "https://example.com/images/struk_peralatan.jpg"
+      }
+    ]
+  }
+],
+"list_status": [
+        {
+            "id": 0,
+            "name": "Belum Selesai"
+        },
+        {
+            "id": 1,
+            "name": "Selesai"
+        },
+        {
+            "id": 2,
+            "name": "Ditolak"
+        }
+    ],
+    "list_jenis": [
+        {
+            "id": 0,
+            "name": "Urgent"
+        },
+        {
+            "id": 1,
+            "name": "Rutin"
+        },
+        {
+            "id": 2,
+            "name": "Klaim Baru"
+        },
+        {
+            "id": 34,
+            "name": "Testing"
+        }
+    ]
+}
