@@ -1,0 +1,183 @@
+{
+    "status":true,
+    "message":"Maji mak codong",
+    "data":[
+  {
+    "id": "TK-2025-001",
+    "title": "Laptop won't boot up",
+    "description": "My work laptop suddenly stopped working this morning. When I press the power button, nothing happens at all. No lights, no sounds, completely dead.",
+    "date": "2025-08-19T08:30:00.000Z",
+    "requester": "Jane Wilson",
+    "requester_divisi": "HR",
+    "namaItSupport": null,
+    "status": "open",
+    "tags": null,
+    "invoices": [],
+    "proofDescription": null,
+    "proofPhotos": [],
+    "date_taken": null,
+    "date_finished": null,
+    "barang": {
+      "id_barang": "BRG087",
+      "type": "Laptop",
+      "brand": "Dell"
+    }
+  },
+  {
+    "id": "TK-2025-002",
+    "title": "Email not receiving attachments",
+    "description": "I can send and receive emails normally, but any email with attachments doesn't come through. This has been happening since yesterday.",
+    "date": "2025-08-18T14:20:00.000Z",
+    "requester": "Albert Tan",
+    "requester_divisi": "Streamer",
+    "namaItSupport": "Ahmad Fadli",
+    "status": "in_progress",
+    "tags": [
+      "email",
+      "attachments"
+    ],
+    "invoices": [],
+    "proofDescription": null,
+    "proofPhotos": [],
+    "date_taken": "2025-08-18T16:30:00.000Z",
+    "date_finished": null,
+    "barang": {
+      "id_barang": "BRG124",
+      "type": "PC",
+      "brand": "HP"
+    }
+  },
+  {
+    "id": "TK-2025-003",
+    "title": "Printer paper jam and error messages",
+    "description": "Office printer HP LaserJet keeps showing paper jam error even after removing all paper. Red error light blinking continuously.",
+    "date": "2025-08-17T11:45:00.000Z",
+    "requester": "Sarah Martinez",
+    "requester_divisi": "SuperComfyMall Store",
+    "namaItSupport": "Sarah Wijaya",
+    "status": "completed",
+    "tags": [
+      "printer",
+      "hardware"
+    ],
+    "invoices": [
+      {
+        "invoiceId": "INV-2025-0045",
+        "invoicePhoto": "https://storage.company.com/invoices/inv_2025_0045.jpg"
+      }
+    ],
+    "proofDescription": "Replaced printer roller assembly and cleaned internal components. Printer now functioning normally without any error messages.",
+    "proofPhotos": [
+      "https://storage.company.com/proof/tk2025003_before.jpg",
+      "https://storage.company.com/proof/tk2025003_repair.jpg",
+      "https://storage.company.com/proof/tk2025003_after.jpg"
+    ],
+    "date_taken": "2025-08-17T13:00:00.000Z",
+    "date_finished": "2025-08-17T16:30:00.000Z",
+    "barang": {
+      "id_barang": "BRG056",
+      "type": "Printer",
+      "brand": "HP"
+    }
+  },
+  {
+    "id": "TK-2025-004",
+    "title": "Cannot access company shared drive",
+    "description": "Getting 'Network path not found' error when trying to access \\\\server\\shared folder. Other network resources work fine.",
+    "date": "2025-08-19T09:15:00.000Z",
+    "requester": "Michael Chen",
+    "requester_divisi": "Warehouse",
+    "namaItSupport": "Budi Santoso",
+    "status": "completed",
+    "tags": [
+      "network",
+      "permissions"
+    ],
+    "invoices": [],
+    "proofDescription": "Reset user permissions on shared drive and updated network credentials. User can now access all shared folders successfully.",
+    "proofPhotos": [
+      "https://storage.company.com/proof/tk2025004_permission_fixed.png",
+      "https://storage.company.com/proof/tk2025004_access_confirmed.png"
+    ],
+    "date_taken": "2025-08-19T10:00:00.000Z",
+    "date_finished": "2025-08-19T11:15:00.000Z",
+    "barang": {
+      "id_barang": "BRG201",
+      "type": "PC",
+      "brand": "Lenovo"
+    }
+  },
+  {
+    "id": "TK-2025-005",
+    "title": "Software installation request - Adobe Photoshop",
+    "description": "Need Adobe Photoshop installed on my workstation for graphic design tasks. Have company license available.",
+    "date": "2025-08-16T13:30:00.000Z",
+    "requester": "Diana Park",
+    "requester_divisi": "Streamer",
+    "namaItSupport": "Indira Sari",
+    "status": "in_progress",
+    "tags": [
+      "software"
+    ],
+    "invoices": [],
+    "proofDescription": null,
+    "proofPhotos": [],
+    "date_taken": "2025-08-16T15:00:00.000Z",
+    "date_finished": null,
+    "barang": null
+  },
+  {
+    "id": "TK-2025-006",
+    "title": "Monitor flickering and color distortion",
+    "description": "My second monitor keeps flickering and showing weird colors. Sometimes it goes completely black for a few seconds.",
+    "date": "2025-08-15T16:00:00.000Z",
+    "requester": "Kevin Rodriguez",
+    "requester_divisi": "HR",
+    "namaItSupport": "Ravi Kumar",
+    "status": "completed",
+    "tags": [
+      "hardware",
+      "monitor"
+    ],
+    "invoices": [
+      {
+        "invoiceId": "INV-2025-0042",
+        "invoicePhoto": "https://storage.company.com/invoices/inv_2025_0042.pdf"
+      },
+      {
+        "invoiceId": "INV-2025-0043",
+        "invoicePhoto": "https://storage.company.com/invoices/inv_2025_0043.jpg"
+      }
+    ],
+    "proofDescription": "Replaced faulty VGA cable and updated graphics drivers. Monitor now displays correctly with stable colors and no flickering.",
+    "proofPhotos": [
+      "https://storage.company.com/proof/tk2025006_old_cable.jpg",
+      "https://storage.company.com/proof/tk2025006_new_setup.jpg"
+    ],
+    "date_taken": "2025-08-15T17:15:00.000Z",
+    "date_finished": "2025-08-15T18:45:00.000Z",
+    "barang": {
+      "id_barang": "BRG098",
+      "type": "Monitor",
+      "brand": "Dell"
+    }
+  },
+  {
+    "id": "TK-2025-007",
+    "title": "WiFi connection keeps dropping",
+    "description": "WiFi connection in conference room B drops every 10-15 minutes during meetings. Affecting video calls and presentations.",
+    "date": "2025-08-19T07:45:00.000Z",
+    "requester": "Amanda Lee",
+    "requester_divisi": "SuperComfyMall Store",
+    "namaItSupport": null,
+    "status": "open",
+    "tags": null,
+    "invoices": [],
+    "proofDescription": null,
+    "proofPhotos": [],
+    "date_taken": null,
+    "date_finished": null,
+    "barang": null
+  }
+]
+}
