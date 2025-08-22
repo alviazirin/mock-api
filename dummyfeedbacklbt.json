@@ -1,254 +1,257 @@
 {
-  "status":true,
-  "message":"okay",
-  "data":[
-  {
-    "id": "TCK-001",
-    "title": "CPU keeps restarting",
-    "date_created": "2025-08-20T10:00:00Z",
-    "requester": "Mate",
-    "requester_divisi": "IT Dept",
-    "barang": {
-      "id_barang": "CPU-123",
-      "type": "Desktop",
-      "brand": "Dell"
-    },
-    "tags": ["hardware", "cpu"],
-    "status": "reopened",
-    "submissions": [
-      {
-        "description": "Issue came back next morning",
-        "proofDescription": null,
-        "proofPhotos": [],
-        "invoices": [],
-        "date_created": "2025-08-21T09:00:00Z",
-        "date_taken": "2025-08-21T10:00:00Z",
-        "date_finished": null,
-        "status": "reopened",
-        "handledBy": null
+  "status": true,
+  "message": "okay",
+  "data": [
+    {
+      "id": "TCK-001",
+      "title": "CPU keeps restarting",
+      "date_created": "2025-08-20T10:00:00Z",
+      "requester": "Mate",
+      "requester_divisi": "IT Dept",
+      "barang": {
+        "id_barang": "CPU-123",
+        "type": "Desktop",
+        "brand": "Dell"
       },
-      {
-        "description": "CPU randomly restarts during work",
-        "proofDescription": "Happens after opening heavy apps",
-        "proofPhotos": ["cpu_error1.png", "cpu_error2.png"],
-        "invoices": [],
-        "date_created": "2025-08-20T09:00:00Z",
-        "date_taken": "2025-08-20T10:00:00Z",
-        "date_finished": "2025-08-20T15:00:00Z",
-        "status": "finished",
-        "handledBy": "John IT"
-      }
-    ]
-  },
-  {
-    "id": "TCK-002",
-    "title": "Printer not printing color",
-    "date_created": "2025-08-18T08:30:00Z",
-    "requester": "Sarah",
-    "requester_divisi": "HR Dept",
-    "barang": {
-      "id_barang": "PRN-456",
-      "type": "Printer",
-      "brand": "HP"
+      "tags": ["hardware", "cpu"],
+      "status": "reopened",
+      "history": [
+        {
+          "description": "Issue came back next morning",
+          "proofDescription": null,
+          "proofPhotos": [],
+          "invoices": [],
+          "date_created": "2025-08-21T09:00:00Z",
+          "date_taken": "2025-08-21T10:00:00Z",
+          "date_finished": null,
+          "status": "reopened",
+          "nama_itsupport": null
+        },
+        {
+          "description": "CPU randomly restarts during work",
+          "proofDescription": "Happens after opening heavy apps",
+          "proofPhotos": ["cpu_error1.png", "cpu_error2.png"],
+          "invoices": [],
+          "date_created": "2025-08-20T09:00:00Z",
+          "date_taken": "2025-08-20T10:00:00Z",
+          "date_finished": "2025-08-20T15:00:00Z",
+          "status": "finished",
+          "nama_itsupport": "John IT"
+        }
+      ]
     },
-    "tags": ["printer", "ink"],
-    "status": "finished",
-    "submissions": [
-      {
-        "description": "Printer only prints in black & white",
-        "proofDescription": "Replaced ink cartridge, printing works fine now",
-        "proofPhotos": ["printer_fixed.png"],
-        "invoices": [
-          {
-            "invoice_id": "INV-001",
-            "item": "Color Ink Cartridge",
-            "amount": 450000,
-            "status": "approved",
-            "note": "Client approved purchase"
-          }
-        ],
-        "date_created": "2025-08-18T08:00:00Z",
-        "date_taken": "2025-08-18T08:30:00Z",
-        "date_finished": "2025-08-18T10:00:00Z",
-        "status": "finished",
-        "handledBy": "Andi IT"
-      }
-    ]
-  },
-  {
-    "id": "TCK-003",
-    "title": "WiFi extremely slow in 3rd floor",
-    "date_created": "2025-08-22T07:15:00Z",
-    "requester": "Rina",
-    "requester_divisi": "Finance",
-    "barang": null,
-    "tags": ["wifi", "infra"],
-    "status": "open",
-    "submissions": [
-      {
-        "description": "Connection drops every 10 minutes, very slow speed",
-        "proofDescription": null,
-        "proofPhotos": [],
-        "invoices": [],
-        "date_created": "2025-08-22T07:15:00Z",
-        "date_taken": null,
-        "date_finished": null,
-        "status": "open",
-        "handledBy": null
-      }
-    ]
-  },
-  {
-    "id": "TCK-004",
-    "title": "Laptop screen flickering",
-    "date_created": "2025-08-19T11:00:00Z",
-    "requester": "Budi",
-    "requester_divisi": "Sales",
-    "barang": {
-      "id_barang": "LTP-789",
-      "type": "Laptop",
-      "brand": "Lenovo"
+    {
+      "id": "TCK-002",
+      "title": "Printer not printing color",
+      "date_created": "2025-08-18T08:30:00Z",
+      "requester": "Sarah",
+      "requester_divisi": "HR Dept",
+      "barang": {
+        "id_barang": "PRN-456",
+        "type": "Printer",
+        "brand": "HP"
+      },
+      "tags": ["printer", "ink"],
+      "status": "finished",
+      "history": [
+        {
+          "description": "Printer only prints in black & white",
+          "proofDescription": "Replaced ink cartridge, printing works fine now",
+          "proofPhotos": ["printer_fixed.png"],
+          "invoices": [
+            {
+              "invoice_id": "INV-001",
+              "invoice_image": null,
+              "item": "Color Ink Cartridge",
+              "amount": 450000,
+              "status": "approved",
+              "note": "Client approved purchase"
+            }
+          ],
+          "date_created": "2025-08-18T08:00:00Z",
+          "date_taken": "2025-08-18T08:30:00Z",
+          "date_finished": "2025-08-18T10:00:00Z",
+          "status": "finished",
+          "nama_itsupport": "Andi IT"
+        }
+      ]
     },
-    "tags": ["hardware", "screen"],
-    "status": "in_progress",
-    "submissions": [
-      {
-        "description": "Screen flickers randomly, worse when moving lid",
-        "proofDescription": null,
-        "proofPhotos": [],
-        "invoices": [],
-        "date_created": "2025-08-19T11:00:00Z",
-        "date_taken": "2025-08-19T12:00:00Z",
-        "date_finished": null,
-        "status": "in_progress",
-        "handledBy": "Dewi IT"
-      }
-    ]
-  },
-  {
-    "id": "TCK-005",
-    "title": "Need more RAM for desktop",
-    "date_created": "2025-08-15T09:00:00Z",
-    "requester": "Yusuf",
-    "requester_divisi": "Design",
-    "barang": {
-      "id_barang": "CPU-222",
-      "type": "Desktop",
-      "brand": "Acer"
+    {
+      "id": "TCK-003",
+      "title": "WiFi extremely slow in 3rd floor",
+      "date_created": "2025-08-22T07:15:00Z",
+      "requester": "Rina",
+      "requester_divisi": "Finance",
+      "barang": null,
+      "tags": ["wifi", "infra"],
+      "status": "open",
+      "history": [
+        {
+          "description": "Connection drops every 10 minutes, very slow speed",
+          "proofDescription": null,
+          "proofPhotos": [],
+          "invoices": [],
+          "date_created": "2025-08-22T07:15:00Z",
+          "date_taken": null,
+          "date_finished": null,
+          "status": "open",
+          "nama_itsupport": null
+        }
+      ]
     },
-    "tags": ["hardware", "upgrade"],
-    "status": "finished",
-    "submissions": [
-      {
-        "description": "System too slow when running Photoshop",
-        "proofDescription": "Installed new 16GB RAM, now running smoothly",
-        "proofPhotos": ["ram_installed.png"],
-        "invoices": [
-          {
-            "invoice_id": "INV-002",
-            "item": "16GB DDR4 RAM",
-            "amount": 1200000,
-            "status": "approved",
-            "note": "Client approved purchase"
-          }
-        ],
-        "date_created": "2025-08-15T09:00:00Z",
-        "date_taken": "2025-08-15T09:30:00Z",
-        "date_finished": "2025-08-15T11:00:00Z",
-        "status": "finished",
-        "handledBy": "Sinta IT"
-      }
-    ]
-  },
-  {
-    "id": "TCK-006",
-    "title": "Email client not syncing",
-    "date_created": "2025-08-17T13:00:00Z",
-    "requester": "Andi",
-    "requester_divisi": "Marketing",
-    "barang": null,
-    "tags": ["software", "email"],
-    "status": "finished",
-    "submissions": [
-      {
-        "description": "Outlook not syncing with server",
-        "proofDescription": "Reconfigured mail settings, syncing works now",
-        "proofPhotos": [],
-        "invoices": [],
-        "date_created": "2025-08-17T13:00:00Z",
-        "date_taken": "2025-08-17T13:15:00Z",
-        "date_finished": "2025-08-17T14:00:00Z",
-        "status": "finished",
-        "handledBy": "Agus IT"
-      }
-    ]
-  },
-  {
-    "id": "TCK-007",
-    "title": "Projector lamp needs replacement",
-    "date_created": "2025-08-14T15:00:00Z",
-    "requester": "Diana",
-    "requester_divisi": "Training",
-    "barang": {
-      "id_barang": "PRJ-321",
-      "type": "Projector",
-      "brand": "Epson"
+    {
+      "id": "TCK-004",
+      "title": "Laptop screen flickering",
+      "date_created": "2025-08-19T11:00:00Z",
+      "requester": "Budi",
+      "requester_divisi": "Sales",
+      "barang": {
+        "id_barang": "LTP-789",
+        "type": "Laptop",
+        "brand": "Lenovo"
+      },
+      "tags": ["hardware", "screen"],
+      "status": "in_progress",
+      "history": [
+        {
+          "description": "Screen flickers randomly, worse when moving lid",
+          "proofDescription": null,
+          "proofPhotos": [],
+          "invoices": [],
+          "date_created": "2025-08-19T11:00:00Z",
+          "date_taken": "2025-08-19T12:00:00Z",
+          "date_finished": null,
+          "status": "in_progress",
+          "nama_itsupport": "Dewi IT"
+        }
+      ]
     },
-    "tags": ["hardware", "projector"],
-    "status": "finished",
-    "submissions": [
-      {
-        "description": "Projector brightness too low",
-        "proofDescription": "Replaced lamp, brightness restored",
-        "proofPhotos": ["projector_after.png"],
-        "invoices": [
-          {
-            "invoice_id": "INV-003",
-            "item": "Projector Lamp",
-            "amount": 850000,
-            "status": "approved",
-            "note": "Client approved"
-          }
-        ],
-        "date_created": "2025-08-14T15:00:00Z",
-        "date_taken": "2025-08-14T15:30:00Z",
-        "date_finished": "2025-08-14T16:30:00Z",
-        "status": "finished",
-        "handledBy": "Wawan IT"
-      }
-    ]
-  },
-  {
-    "id": "TCK-008",
-    "title": "VPN connection unstable",
-    "date_created": "2025-08-21T09:00:00Z",
-    "requester": "Lina",
-    "requester_divisi": "Remote Staff",
-    "barang": null,
-    "tags": ["vpn", "infra"],
-    "status": "in_progress",
-    "submissions": [
-      {
-        "description": "VPN disconnects every 5 minutes",
-        "proofDescription": null,
-        "proofPhotos": [],
-        "invoices": [
-          {
-            "invoice_id": "INV-004",
-            "item": "VPN Server Upgrade",
-            "amount": 300000,
-            "status": "pending",
-            "note": null
-          }
-        ],
-        "date_created": "2025-08-21T09:00:00Z",
-        "date_taken": "2025-08-21T10:00:00Z",
-        "date_finished": null,
-        "status": "in_progress",
-        "handledBy": "Eka IT"
-      }
-    ]
-  }
-]
-
+    {
+      "id": "TCK-005",
+      "title": "Need more RAM for desktop",
+      "date_created": "2025-08-15T09:00:00Z",
+      "requester": "Yusuf",
+      "requester_divisi": "Design",
+      "barang": {
+        "id_barang": "CPU-222",
+        "type": "Desktop",
+        "brand": "Acer"
+      },
+      "tags": ["hardware", "upgrade"],
+      "status": "finished",
+      "history": [
+        {
+          "description": "System too slow when running Photoshop",
+          "proofDescription": "Installed new 16GB RAM, now running smoothly",
+          "proofPhotos": ["ram_installed.png"],
+          "invoices": [
+            {
+              "invoice_id": "INV-002",
+              "invoice_image": null,
+              "item": "16GB DDR4 RAM",
+              "amount": 1200000,
+              "status": "approved",
+              "note": "Client approved purchase"
+            }
+          ],
+          "date_created": "2025-08-15T09:00:00Z",
+          "date_taken": "2025-08-15T09:30:00Z",
+          "date_finished": "2025-08-15T11:00:00Z",
+          "status": "finished",
+          "nama_itsupport": "Sinta IT"
+        }
+      ]
+    },
+    {
+      "id": "TCK-006",
+      "title": "Email client not syncing",
+      "date_created": "2025-08-17T13:00:00Z",
+      "requester": "Andi",
+      "requester_divisi": "Marketing",
+      "barang": null,
+      "tags": ["software", "email"],
+      "status": "finished",
+      "history": [
+        {
+          "description": "Outlook not syncing with server",
+          "proofDescription": "Reconfigured mail settings, syncing works now",
+          "proofPhotos": [],
+          "invoices": [],
+          "date_created": "2025-08-17T13:00:00Z",
+          "date_taken": "2025-08-17T13:15:00Z",
+          "date_finished": "2025-08-17T14:00:00Z",
+          "status": "finished",
+          "nama_itsupport": "Agus IT"
+        }
+      ]
+    },
+    {
+      "id": "TCK-007",
+      "title": "Projector lamp needs replacement",
+      "date_created": "2025-08-14T15:00:00Z",
+      "requester": "Diana",
+      "requester_divisi": "Training",
+      "barang": {
+        "id_barang": "PRJ-321",
+        "type": "Projector",
+        "brand": "Epson"
+      },
+      "tags": ["hardware", "projector"],
+      "status": "finished",
+      "history": [
+        {
+          "description": "Projector brightness too low",
+          "proofDescription": "Replaced lamp, brightness restored",
+          "proofPhotos": ["projector_after.png"],
+          "invoices": [
+            {
+              "invoice_id": "INV-003",
+              "invoice_image": null,
+              "item": "Projector Lamp",
+              "amount": 850000,
+              "status": "approved",
+              "note": "Client approved"
+            }
+          ],
+          "date_created": "2025-08-14T15:00:00Z",
+          "date_taken": "2025-08-14T15:30:00Z",
+          "date_finished": "2025-08-14T16:30:00Z",
+          "status": "finished",
+          "nama_itsupport": "Wawan IT"
+        }
+      ]
+    },
+    {
+      "id": "TCK-008",
+      "title": "VPN connection unstable",
+      "date_created": "2025-08-21T09:00:00Z",
+      "requester": "Lina",
+      "requester_divisi": "Remote Staff",
+      "barang": null,
+      "tags": ["vpn", "infra"],
+      "status": "in_progress",
+      "history": [
+        {
+          "description": "VPN disconnects every 5 minutes",
+          "proofDescription": null,
+          "proofPhotos": [],
+          "invoices": [
+            {
+              "invoice_id": "INV-004",
+              "invoice_image": null,
+              "item": "VPN Server Upgrade",
+              "amount": 300000,
+              "status": "pending",
+              "note": null
+            }
+          ],
+          "date_created": "2025-08-21T09:00:00Z",
+          "date_taken": "2025-08-21T10:00:00Z",
+          "date_finished": null,
+          "status": "in_progress",
+          "nama_itsupport": "Eka IT"
+        }
+      ]
+    }
+  ]
 }
