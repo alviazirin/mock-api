@@ -17,6 +17,7 @@
       "tags": ["hardware", "cpu"],
       "status_ticket": 3,
       "status_ticket_label": "reopened",
+      "nama_itsupport": null,
       "invoices": [],
       "history": [
         {
@@ -60,6 +61,7 @@
       "tags": ["printer", "ink"],
       "status_ticket": 2,
       "status_ticket_label": "finished",
+      "nama_itsupport": "Andi IT",
       "invoices": [
         {
           "invoice_id": "INV-001",
@@ -107,6 +109,7 @@
       "tags": ["wifi", "infra"],
       "status_ticket": 0,
       "status_ticket_label": "open",
+      "nama_itsupport": null,
       "invoices": [],
       "history": [
         {
@@ -138,6 +141,7 @@
       "tags": ["hardware", "screen"],
       "status_ticket": 1,
       "status_ticket_label": "in_progress",
+      "nama_itsupport": "Dewi IT",
       "invoices": [],
       "history": [
         {
@@ -169,6 +173,7 @@
       "tags": ["hardware", "upgrade"],
       "status_ticket": 2,
       "status_ticket_label": "finished",
+      "nama_itsupport": "Sinta IT",
       "invoices": [
         {
           "invoice_id": "INV-002",
@@ -216,6 +221,7 @@
       "tags": ["software", "email"],
       "status_ticket": 2,
       "status_ticket_label": "finished",
+      "nama_itsupport": "Agus IT",
       "invoices": [],
       "history": [
         {
@@ -247,6 +253,7 @@
       "tags": ["hardware", "projector"],
       "status_ticket": 2,
       "status_ticket_label": "finished",
+      "nama_itsupport": "Wawan IT",
       "invoices": [
         {
           "invoice_id": "INV-003",
@@ -294,6 +301,7 @@
       "tags": ["vpn", "infra"],
       "status_ticket": 1,
       "status_ticket_label": "in_progress",
+      "nama_itsupport": "Eka IT",
       "invoices": [
         {
           "invoice_id": "INV-004",
