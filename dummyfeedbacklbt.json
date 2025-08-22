@@ -5,6 +5,7 @@
     {
       "id": "TCK-001",
       "title": "CPU keeps restarting",
+      "description": "Issue came back next morning",
       "date_created": "2025-08-20T10:00:00Z",
       "requester": "Mate",
       "requester_divisi": "IT Dept",
@@ -47,6 +48,7 @@
     {
       "id": "TCK-002",
       "title": "Printer not printing color",
+      "description": "Printer only prints in black & white",
       "date_created": "2025-08-18T08:30:00Z",
       "requester": "Sarah",
       "requester_divisi": "HR Dept",
@@ -97,6 +99,7 @@
     {
       "id": "TCK-003",
       "title": "WiFi extremely slow in 3rd floor",
+      "description": "Connection drops every 10 minutes, very slow speed",
       "date_created": "2025-08-22T07:15:00Z",
       "requester": "Rina",
       "requester_divisi": "Finance",
@@ -123,6 +126,7 @@
     {
       "id": "TCK-004",
       "title": "Laptop screen flickering",
+      "description": "Screen flickers randomly, worse when moving lid",
       "date_created": "2025-08-19T11:00:00Z",
       "requester": "Budi",
       "requester_divisi": "Sales",
@@ -153,6 +157,7 @@
     {
       "id": "TCK-005",
       "title": "Need more RAM for desktop",
+      "description": "System too slow when running Photoshop",
       "date_created": "2025-08-15T09:00:00Z",
       "requester": "Yusuf",
       "requester_divisi": "Design",
@@ -203,6 +208,7 @@
     {
       "id": "TCK-006",
       "title": "Email client not syncing",
+      "description": "Outlook not syncing with server",
       "date_created": "2025-08-17T13:00:00Z",
       "requester": "Andi",
       "requester_divisi": "Marketing",
@@ -229,6 +235,7 @@
     {
       "id": "TCK-007",
       "title": "Projector lamp needs replacement",
+      "description": "Projector brightness too low",
       "date_created": "2025-08-14T15:00:00Z",
       "requester": "Diana",
       "requester_divisi": "Training",
@@ -279,6 +286,7 @@
     {
       "id": "TCK-008",
       "title": "VPN connection unstable",
+      "description": "VPN disconnects every 5 minutes",
       "date_created": "2025-08-21T09:00:00Z",
       "requester": "Lina",
       "requester_divisi": "Remote Staff",
