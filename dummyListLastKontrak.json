@@ -1,7 +1,6 @@
 {
     "status": true,
-    "message": "Feedback data retrieved successfully",
-    
+    "message": "Feedback data retrieved successfully",    
   "list_pegawai": [
     {
       "nama": "Andi Pratama",
