@@ -1,0 +1,119 @@
+{
+    "status": true,
+    "message": "Feedback data retrieved successfully",
+    "data": {
+  "list_pegawai": [
+    {
+      "nama": "Andi Pratama",
+      "tanggal_lahir": "1990-03-14",
+      "tanggal_join": "2015-07-01",
+      "divisi": "IT",
+      "last_contract": {
+        "jenis_kontrak": "1 year",
+        "tanggal_mulai": "2023-01-01",
+        "tanggal_selesai": "2023-12-31"
+      }
+    },
+    {
+      "nama": "Siti Aisyah",
+      "tanggal_lahir": "1988-08-21",
+      "tanggal_join": "2017-03-15",
+      "divisi": "Finance",
+      "last_contract": {
+        "jenis_kontrak": "6 months",
+        "tanggal_mulai": "2022-06-01",
+        "tanggal_selesai": "2022-11-30"
+      }
+    },
+    {
+      "nama": "Budi Santoso",
+      "tanggal_lahir": "1992-11-05",
+      "tanggal_join": "2018-01-10",
+      "divisi": "HR",
+      "last_contract": {
+        "jenis_kontrak": "3 months",
+        "tanggal_mulai": "2023-02-01",
+        "tanggal_selesai": "2023-04-30"
+      }
+    },
+    {
+      "nama": "Dewi Lestari",
+      "tanggal_lahir": "1995-04-30",
+      "tanggal_join": "2020-09-20",
+      "divisi": "Marketing",
+      "last_contract": {
+        "jenis_kontrak": "1 year",
+        "tanggal_mulai": "2022-10-01",
+        "tanggal_selesai": "2023-09-30"
+      }
+    },
+    {
+      "nama": "Rizky Ananda",
+      "tanggal_lahir": "1987-01-19",
+      "tanggal_join": "2016-04-12",
+      "divisi": "Operations",
+      "last_contract": {
+        "jenis_kontrak": "6 months",
+        "tanggal_mulai": "2021-05-01",
+        "tanggal_selesai": "2021-10-31"
+      }
+    },
+    {
+      "nama": "Fitri Handayani",
+      "tanggal_lahir": "1993-07-25",
+      "tanggal_join": "2019-11-05",
+      "divisi": "Legal",
+      "last_contract": {
+        "jenis_kontrak": "1 year",
+        "tanggal_mulai": "2023-03-01",
+        "tanggal_selesai": "2024-02-29"
+      }
+    },
+    {
+      "nama": "Ahmad Fauzi",
+      "tanggal_lahir": "1985-12-09",
+      "tanggal_join": "2014-02-17",
+      "divisi": "Procurement",
+      "last_contract": {
+        "jenis_kontrak": "3 months",
+        "tanggal_mulai": "2020-01-01",
+        "tanggal_selesai": "2020-03-31"
+      }
+    },
+    {
+      "nama": "Lina Kartika",
+      "tanggal_lahir": "1996-06-12",
+      "tanggal_join": "2021-08-09",
+      "divisi": "Customer Service",
+      "last_contract": {
+        "jenis_kontrak": "6 months",
+        "tanggal_mulai": "2023-09-01",
+        "tanggal_selesai": "2024-02-29"
+      }
+    },
+    {
+      "nama": "Hendra Wijaya",
+      "tanggal_lahir": "1989-05-28",
+      "tanggal_join": "2017-12-01",
+      "divisi": "Logistics",
+      "last_contract": {
+        "jenis_kontrak": "1 year",
+        "tanggal_mulai": "2022-01-01",
+        "tanggal_selesai": "2022-12-31"
+      }
+    },
+    {
+      "nama": "Maya Putri",
+      "tanggal_lahir": "1991-10-03",
+      "tanggal_join": "2018-06-14",
+      "divisi": "R&D",
+      "last_contract": {
+        "jenis_kontrak": "6 months",
+        "tanggal_mulai": "2021-07-01",
+        "tanggal_selesai": "2021-12-31"
+      }
+    }
+  ]
+}
+
+}
