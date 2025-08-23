@@ -1,7 +1,7 @@
 {
     "status": true,
     "message": "Feedback data retrieved successfully",
-    "data": {
+    
   "list_pegawai": [
     {
       "nama": "Andi Pratama",
@@ -114,6 +114,6 @@
       }
     }
   ]
-}
+
 
 }
