@@ -1,0 +1,141 @@
+{
+  "status": true,
+  "message": "okay",
+  "data": [
+    {
+      "id": "TCK-001",
+      "title": "CPU keeps restarting",
+      "description": "Issue came back next morning",
+      "date_created": "2025-08-20T10:00:00Z",
+      "requester": "Mate",
+      "requester_divisi": "IT Dept",
+      "barang": {
+        "id_barang": "CPU-123",
+        "type": "Desktop",
+        "brand": "Dell"
+      },
+      "tags": ["hardware", "cpu"],
+      "status_ticket": 3,
+      "status_ticket_label": "reopened",
+      "nama_itsupport": null,
+      "invoices": [
+        {
+              "invoice_id": "INV-001",
+              "invoice_image": null,
+              "item": "CPU FIXER",
+              "amount": 1000000,
+              "status_invoice": 0,
+              "status_invoice_label": "waiting",
+              "note": "need this to fix the issue"
+            },
+            {
+              "invoice_id": "INV-001",
+              "invoice_image": null,
+              "item": "CPU FIXER ADD ON",
+              "amount": 1000000,
+              "status_invoice": 0,
+              "status_invoice_label": "waiting",
+              "note": "the add on is required too to fix the issue"
+            }
+      ],
+      "history": [
+        {
+          "description": "Issue came back next morning",
+          "proofDescription": null,
+          "proofPhotos": [],
+          "invoices": [
+            {
+              "invoice_id": "INV-001",
+              "invoice_image": null,
+              "item": "CPU FIXER",
+              "amount": 1000000,
+              "status_invoice": 0,
+              "status_invoice_label": "waiting",
+              "note": "need this to fix the issue"
+            },
+            {
+              "invoice_id": "INV-001",
+              "invoice_image": null,
+              "item": "CPU FIXER ADD ON",
+              "amount": 1000000,
+              "status_invoice": 0,
+              "status_invoice_label": "waiting",
+              "note": "the add on is required too to fix the issue"
+            }
+          ],
+          "date_created": "2025-08-21T09:00:00Z",
+          "date_taken": "2025-08-21T10:00:00Z",
+          "date_finished": null,
+          "status_history": 3,
+          "status_history_label": "reopened",
+          "nama_itsupport": null
+        },
+        {
+          "description": "CPU randomly restarts during work",
+          "proofDescription": "Happens after opening heavy apps",
+          "proofPhotos": ["cpu_error1.png", "cpu_error2.png"],
+          "invoices": [],
+          "date_created": "2025-08-20T09:00:00Z",
+          "date_taken": "2025-08-20T10:00:00Z",
+          "date_finished": "2025-08-20T15:00:00Z",
+          "status_history": 2,
+          "status_history_label": "finished",
+          "nama_itsupport": "John IT"
+        }
+      ]
+    },
+    {
+      "id": "TCK-002",
+      "title": "Printer not printing color",
+      "description": "Printer only prints in black & white",
+      "date_created": "2025-08-18T08:30:00Z",
+      "requester": "Sarah",
+      "requester_divisi": "HR Dept",
+      "barang": {
+        "id_barang": "PRN-456",
+        "type": "Printer",
+        "brand": "HP"
+      },
+      "tags": ["printer", "ink"],
+      "status_ticket": 2,
+      "status_ticket_label": "finished",
+      "nama_itsupport": "Andi IT",
+      "invoices": [
+        {
+          "invoice_id": "INV-001",
+          "invoice_image": null,
+          "item": "Color Ink Cartridge",
+          "amount": 450000,
+          "status_invoice": 1,
+          "status_invoice_label": "approved",
+          "note": "Client approved purchase"
+        }
+      ],
+      "history": [
+        {
+          "description": "Printer only prints in black & white",
+          "proofDescription": "Replaced ink cartridge, printing works fine now",
+          "proofPhotos": ["printer_fixed.png"],
+          "invoices": [
+            {
+              "invoice_id": "INV-001",
+              "invoice_image": null,
+              "item": "Color Ink Cartridge",
+              "amount": 450000,
+              "status_invoice": 1,
+              "status_invoice_label": "approved",
+              "note": "Client approved purchase"
+            }
+          ],
+          "date_created": "2025-08-18T08:00:00Z",
+          "date_taken": "2025-08-18T08:30:00Z",
+          "date_finished": "2025-08-18T10:00:00Z",
+          "status_history": 2,
+          "status_history_label": "finished",
+          "nama_itsupport": "Andi IT"
+        }
+      ]
+    }
+    
+  ]
+}
