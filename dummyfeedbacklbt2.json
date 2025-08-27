@@ -18,6 +18,50 @@
       "status_ticket": 3,
       "status_ticket_label": "reopened",
       "nama_itsupport": null,
+      "invoices": [],
+      "history": [
+        {
+          "description": "Issue came back next morning",
+          "proofDescription": null,
+          "proofPhotos": [],
+          "invoices": [],
+          "date_created": "2025-08-21T09:00:00Z",
+          "date_taken": "2025-08-21T10:00:00Z",
+          "date_finished": null,
+          "status_history": 3,
+          "status_history_label": "reopened",
+          "nama_itsupport": null
+        },
+        {
+          "description": "CPU randomly restarts during work",
+          "proofDescription": "Happens after opening heavy apps",
+          "proofPhotos": ["cpu_error1.png", "cpu_error2.png"],
+          "invoices": [],
+          "date_created": "2025-08-20T09:00:00Z",
+          "date_taken": "2025-08-20T10:00:00Z",
+          "date_finished": "2025-08-20T15:00:00Z",
+          "status_history": 2,
+          "status_history_label": "finished",
+          "nama_itsupport": "John IT"
+        }
+      ]
+    },
+    {
+      "id": "TCK-002",
+      "title": "Computer screen flickering",
+      "description": "Screen flickers randomly, worse when moving lid",
+      "date_created": "2025-08-19T10:00:00Z",
+      "requester": "Mate",
+      "requester_divisi": "IT Dept",
+      "barang": {
+        "id_barang": "CPU-123",
+        "type": "Desktop",
+        "brand": "Dell"
+      },
+      "tags": ["hardware", "cpu"],
+      "status_ticket": 1,
+      "status_ticket_label": "proses",
+      "nama_itsupport": "Idham IT",
       "invoices": [
         {
               "invoice_id": "INV-001",
@@ -40,7 +84,7 @@
       ],
       "history": [
         {
-          "description": "Issue came back next morning",
+          "description": "Screen flickers randomly, worse when moving lid",
           "proofDescription": null,
           "proofPhotos": [],
           "invoices": [
@@ -66,9 +110,9 @@
           "date_created": "2025-08-21T09:00:00Z",
           "date_taken": "2025-08-21T10:00:00Z",
           "date_finished": null,
-          "status_history": 3,
-          "status_history_label": "reopened",
-          "nama_itsupport": null
+          "status_history": 1,
+          "status_history_label": "proses",
+          "nama_itsupport": "Idham IT"
         },
         {
           "description": "CPU randomly restarts during work",
@@ -85,7 +129,7 @@
       ]
     },
     {
-      "id": "TCK-002",
+      "id": "TCK-003",
       "title": "Printer not printing color",
       "description": "Printer only prints in black & white",
       "date_created": "2025-08-18T08:30:00Z",
