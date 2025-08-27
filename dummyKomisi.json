@@ -1,0 +1,77 @@
+{
+    "status": true,
+    "data": [
+        {
+            "keterangan": "Komisi Bulan ini ",
+            "jumlah": "",
+            "urutan": 1,
+            "header": 1
+        },
+        {
+            "keterangan": "Komisi Pokok (FULL)",
+            "jumlah": "Rp 5.040.000,00",
+            "urutan": 2,
+            "header": 0
+        },
+        {
+            "keterangan": "Komisi Kehormatan",
+            "jumlah": "Rp 6.690.000",
+            "urutan": 3,
+            "header": 0
+        },
+        {
+            "keterangan": "Komisi Komunikasi Intensif",
+            "jumlah": "Rp 16.468.000",
+            "urutan": 4,
+            "header": 0
+        },
+        {
+            "keterangan": "Komisi Peningkatan Fungsi Pengawasan dan Anggaran",
+            "jumlah": "Rp 5.250.000",
+            "urutan": 5,
+            "header": 0
+        },
+        {
+            "keterangan": "Komisi Rumah Dinas",
+            "jumlah": "Rp 50.000.000",
+            "urutan": 5,
+            "header": 0
+        },
+        {
+            "keterangan": "GRAND TOTAL",
+            "jumlah": "Rp 100.000.000",
+            "urutan": 61,
+            "header": 0
+        }
+    ],
+    "tanggungan":[
+    {
+        "urutan":1,
+        "tugas":"Laporan terpenuhi 50/50",
+        "sudah":1
+    },
+    {
+        "urutan":2,
+        "tugas":"Target Omzet 500 juta/bulan",
+        "sudah":1
+    },
+    {
+        "urutan":3,
+        "tugas":"Ngopi 7x seminggu (kopinya harus kapal api) 4/7",
+        "sudah":0
+    },
+    {
+        "urutan":4,
+        "tugas":"Mengantar kucing HRD ke salon hewan",
+        "sudah":1
+    },
+    {
+        "urutan":5,
+        "tugas":"Menjaga dispenser tetap ada galonnya (24/7 duty)",
+        "sudah":0
+    }
+   
+]
+
+   
+}
