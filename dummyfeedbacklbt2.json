@@ -14,10 +14,10 @@
         "type": "Desktop",
         "brand": "Dell"
       },
-      "tags": ["hardware", "cpu"], //Isi by it support, bisa multiple
+      "tags": ["hardware", "cpu"],
       "status_ticket": 3, 
       "status_ticket_label": "reopened",
-      "nama_itsupport": null, //isi by it support
+      "nama_itsupport": null,
       "invoices": [],
       "history": [
         {
