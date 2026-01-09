@@ -13,43 +13,43 @@
           "nama": "nama",
           "label": "Nama",
           "tipe": "text",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "posisi",
           "label": "Posisi",
           "tipe": "text",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "divisi",
           "label": "Divisi",
           "tipe": "text",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "namaPerusahaan",
           "label": "Perusahaan",
           "tipe": "text",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "masaKerja",
           "label": "Masa Kerja",
           "tipe": "text",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "areaPenempatan",
           "label": "Area Penempatan/Cabang",
           "tipe": "text",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "tanggalTerakhirBekerja",
           "label": "Tanggal Terakhir Bekerja",
           "tipe": "date",
-          "required": true
+          "isRequire": 1
         }
       ]
     },
@@ -60,13 +60,13 @@
           "nama": "alasanBerhenti",
           "label": "Mengapa Anda melakukan pemutusan hubungan kerja ?",
           "tipe": "textarea",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "saranPertahankan",
           "label": "Apakah ada sesuatu yang bisa perusahaan lakukan untuk mempertahankan anda ?",
           "tipe": "textarea",
-          "required": false
+          "isRequire": 0
         }
       ]
     },
@@ -78,90 +78,90 @@
           "label": "Apakah Anda mendapatkan gambaran mengenai deskripsi pekerjaan Anda saat ini secara akurat ?",
           "tipe": "radio",
           "pilihan": ["Ya", "Tidak"],
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "kejelasanTujuanTarget",
           "label": "Apakah Anda mendapatkan kejelasan mengenai tujuan dan target dari posisi yang Anda pegang saat ini ?",
           "tipe": "radio",
           "pilihan": ["Ya", "Tidak"],
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "pemanfaatanKualifikasi",
           "label": "Apakah kualifikasi dan ketrampilan yang Anda miliki telah dimanfaatkan secara optimal dalam kegiatan kerja Anda sehari-hari?",
           "tipe": "radio",
           "pilihan": ["Ya", "Tidak"],
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "dukunganCukup",
           "label": "Apakah Anda merasa telah menerima dukungan yang cukup sehingga memungkinkan Anda dapat mengerjakan pekerjaan dengan baik?",
           "tipe": "radio",
           "pilihan": ["Ya", "Tidak"],
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "pelatihanMemadai",
           "label": "Apakah pelatihan yang Anda terima di perusahaan sudah cukup memadai untuk mendukung Anda mengerjakan pekerjaan?",
           "tipe": "radio",
           "pilihan": ["Ya", "Tidak"],
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "pelatihanLebihLanjut",
           "label": "Apakah ada pelatihan lebih lanjut yang seharusnya perusahaan tawarkan kepada Anda?",
           "tipe": "textarea",
-          "required": false
+          "isRequire": 0
         },
         {
           "nama": "promosiKarir",
           "label": "Bagaimana pendapat Anda mengenai promosi dan prospek karir Anda di perusahaan?",
           "tipe": "textarea",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "peningkatanProspek",
           "label": "Bagaimana seharusnya prospek-prospek tersebut bisa ditingkatkan ?",
           "tipe": "textarea",
-          "required": false
+          "isRequire": 0
         },
         {
           "nama": "lingkunganKerja",
           "label": "Bagaimana lingkungan kerja Anda secara keseluruhan ?",
           "tipe": "textarea",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "saranPerbaikan",
           "label": "Apa saran Anda untuk perbaikan perusahaan di masa mendatang ?",
           "tipe": "textarea",
-          "required": false
+          "isRequire": 0
         },
         {
           "nama": "rekomendasi",
           "label": "Akankah anda merekomendasikan perusahaan ini kepada orang lain ?",
           "tipe": "radio",
           "pilihan": ["Ya", "Tidak"],
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "komunikasiAtasan",
           "label": "Bagaimana komunikasi antara Anda dan atasan langsung selama bekerja di perusahaan ini ?",
           "tipe": "textarea",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "sampaikanKeDepartemen",
           "label": "Jika ada hal-hal yang penting seperti yang Anda sampaikan di atas, sudahkah Anda menyampaikannya di tingkat departemen Anda? Jika sudah, apakah respon dari departemen Anda?",
           "tipe": "textarea",
-          "required": false
+          "isRequire": 0
         },
         {
           "nama": "halLain",
           "label": "Apakah ada hal-hal lain yang ingin Anda sampaikan?",
           "tipe": "textarea",
-          "required": false
+          "isRequire": 0
         }
       ]
     },
@@ -174,7 +174,7 @@
           "tipe": "checkbox",
           "pilihan": ["Sudah", "Belum"],
           "departemen": "Atasan Langsung",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "pengembalianSeragamId",
@@ -182,7 +182,7 @@
           "tipe": "checkbox",
           "pilihan": ["Sudah", "Belum"],
           "departemen": "HRD",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "pengembalianInventaris",
@@ -190,7 +190,7 @@
           "tipe": "checkbox",
           "pilihan": ["Sudah", "Belum"],
           "departemen": "General Affair",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "tanggunganKeuangan",
@@ -198,7 +198,7 @@
           "tipe": "checkbox",
           "pilihan": ["Sudah", "Belum"],
           "departemen": "Keuangan",
-          "required": true
+          "isRequire": 1
         }
       ]
     },
@@ -209,31 +209,31 @@
           "nama": "tandaTanganAtasan",
           "label": "Leader",
           "tipe": "signature",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "tandaTanganKaryawan",
           "label": "Karyawan",
           "tipe": "signature",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "tandaTanganHRD",
           "label": "HRD",
           "tipe": "signature",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "tandaTanganKeuangan",
           "label": "Finance",
           "tipe": "signature",
-          "required": true
+          "isRequire": 1
         },
         {
           "nama": "tandaTanganGA",
           "label": "General Affair",
           "tipe": "signature",
-          "required": true
+          "isRequire": 1
         }
       ]
     }
