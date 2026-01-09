@@ -1,0 +1,303 @@
+{
+    "status":true,
+    "message":"okay",
+    "data_kuesioner":{
+  "judulForm": "FORM EXIT INTERVIEW",
+  "perusahaan": "PT DORAN SUKSES INDONESIA",
+  "pendahuluan": "Tujuan dari kuesioner ini adalah untuk membantu perusahaan mengetahui pertimbangan atau alasan karyawan melakukan pemutusan hubungan kerja. Perusahaan akan sangat menghargai bila anda memberikan jawaban yang jujur terhadap pertanyaan-pertanyaan yang diutarakan. Jawaban yang anda berikan tidak akan mempengaruhi pertimbangan perusahaan untuk mempekerjakan anda kembali jika anda di masa mendatang hendak bekerja kembali di perusahaan. Tidak satupun informasi yang anda berikan dalam wawancara ini akan disebarkan luaskan kepada perusahaan lain.",
+  "bagian": [
+    {
+      "judul_bagian": "DATA KARYAWAN",
+      "kolom": [
+        {
+          "nama": "nama",
+          "label": "Nama",
+          "tipe": "text",
+          "required": true
+        },
+        {
+          "nama": "posisi",
+          "label": "Posisi",
+          "tipe": "text",
+          "required": true
+        },
+        {
+          "nama": "divisi",
+          "label": "Divisi",
+          "tipe": "text",
+          "required": true
+        },
+        {
+          "nama": "namaPerusahaan",
+          "label": "Perusahaan",
+          "tipe": "text",
+          "required": true
+        },
+        {
+          "nama": "masaKerja",
+          "label": "Masa Kerja",
+          "tipe": "text",
+          "required": true
+        },
+        {
+          "nama": "areaPenempatan",
+          "label": "Area Penempatan/Cabang",
+          "tipe": "text",
+          "required": true
+        },
+        {
+          "nama": "tanggalTerakhirBekerja",
+          "label": "Tanggal Terakhir Bekerja",
+          "tipe": "date",
+          "required": true
+        }
+      ]
+    },
+    {
+      "judul_bagian": "ALASAN-ALASAN PEMUTUSAN HUBUNGAN KERJA",
+      "kolom": [
+        {
+          "nama": "alasanBerhenti",
+          "label": "Mengapa Anda melakukan pemutusan hubungan kerja ?",
+          "tipe": "textarea",
+          "required": true
+        },
+        {
+          "nama": "saranPertahankan",
+          "label": "Apakah ada sesuatu yang bisa perusahaan lakukan untuk mempertahankan anda ?",
+          "tipe": "textarea",
+          "required": false
+        }
+      ]
+    },
+    {
+      "judul_bagian": "TENTANG PERUSAHAAN",
+      "kolom": [
+        {
+          "nama": "gambaranPekerjaanAkurat",
+          "label": "Apakah Anda mendapatkan gambaran mengenai deskripsi pekerjaan Anda saat ini secara akurat ?",
+          "tipe": "radio",
+          "pilihan": ["Ya", "Tidak"],
+          "required": true
+        },
+        {
+          "nama": "kejelasanTujuanTarget",
+          "label": "Apakah Anda mendapatkan kejelasan mengenai tujuan dan target dari posisi yang Anda pegang saat ini ?",
+          "tipe": "radio",
+          "pilihan": ["Ya", "Tidak"],
+          "required": true
+        },
+        {
+          "nama": "pemanfaatanKualifikasi",
+          "label": "Apakah kualifikasi dan ketrampilan yang Anda miliki telah dimanfaatkan secara optimal dalam kegiatan kerja Anda sehari-hari?",
+          "tipe": "radio",
+          "pilihan": ["Ya", "Tidak"],
+          "required": true
+        },
+        {
+          "nama": "dukunganCukup",
+          "label": "Apakah Anda merasa telah menerima dukungan yang cukup sehingga memungkinkan Anda dapat mengerjakan pekerjaan dengan baik?",
+          "tipe": "radio",
+          "pilihan": ["Ya", "Tidak"],
+          "required": true
+        },
+        {
+          "nama": "pelatihanMemadai",
+          "label": "Apakah pelatihan yang Anda terima di perusahaan sudah cukup memadai untuk mendukung Anda mengerjakan pekerjaan?",
+          "tipe": "radio",
+          "pilihan": ["Ya", "Tidak"],
+          "required": true
+        },
+        {
+          "nama": "pelatihanLebihLanjut",
+          "label": "Apakah ada pelatihan lebih lanjut yang seharusnya perusahaan tawarkan kepada Anda?",
+          "tipe": "textarea",
+          "required": false
+        },
+        {
+          "nama": "promosiKarir",
+          "label": "Bagaimana pendapat Anda mengenai promosi dan prospek karir Anda di perusahaan?",
+          "tipe": "textarea",
+          "required": true
+        },
+        {
+          "nama": "peningkatanProspek",
+          "label": "Bagaimana seharusnya prospek-prospek tersebut bisa ditingkatkan ?",
+          "tipe": "textarea",
+          "required": false
+        },
+        {
+          "nama": "lingkunganKerja",
+          "label": "Bagaimana lingkungan kerja Anda secara keseluruhan ?",
+          "tipe": "textarea",
+          "required": true
+        },
+        {
+          "nama": "saranPerbaikan",
+          "label": "Apa saran Anda untuk perbaikan perusahaan di masa mendatang ?",
+          "tipe": "textarea",
+          "required": false
+        },
+        {
+          "nama": "rekomendasi",
+          "label": "Akankah anda merekomendasikan perusahaan ini kepada orang lain ?",
+          "tipe": "radio",
+          "pilihan": ["Ya", "Tidak"],
+          "required": true
+        },
+        {
+          "nama": "komunikasiAtasan",
+          "label": "Bagaimana komunikasi antara Anda dan atasan langsung selama bekerja di perusahaan ini ?",
+          "tipe": "textarea",
+          "required": true
+        },
+        {
+          "nama": "sampaikanKeDepartemen",
+          "label": "Jika ada hal-hal yang penting seperti yang Anda sampaikan di atas, sudahkah Anda menyampaikannya di tingkat departemen Anda? Jika sudah, apakah respon dari departemen Anda?",
+          "tipe": "textarea",
+          "required": false
+        },
+        {
+          "nama": "halLain",
+          "label": "Apakah ada hal-hal lain yang ingin Anda sampaikan?",
+          "tipe": "textarea",
+          "required": false
+        }
+      ]
+    },
+    {
+      "judul_bagian": "VERIFIKASI",
+      "kolom": [
+        {
+          "nama": "kewajibanAtasan",
+          "label": "Karyawan telah melaksanakan semua kewajiban terhadap atasan langsung (Leader)",
+          "tipe": "checkbox",
+          "pilihan": ["Sudah", "Belum"],
+          "departemen": "Atasan Langsung",
+          "required": true
+        },
+        {
+          "nama": "pengembalianSeragamId",
+          "label": "Karyawan telah mengembalikan seragam & ID Card (HRD)",
+          "tipe": "checkbox",
+          "pilihan": ["Sudah", "Belum"],
+          "departemen": "HRD",
+          "required": true
+        },
+        {
+          "nama": "pengembalianInventaris",
+          "label": "Karyawan telah mengembalikan semua inventaris perusahaan (General Affair)",
+          "tipe": "checkbox",
+          "pilihan": ["Sudah", "Belum"],
+          "departemen": "General Affair",
+          "required": true
+        },
+        {
+          "nama": "tanggunganKeuangan",
+          "label": "Karyawan tidak memiliki tanggungan terhadap perusahaan : (Finance)",
+          "tipe": "checkbox",
+          "pilihan": ["Sudah", "Belum"],
+          "departemen": "Keuangan",
+          "required": true
+        }
+      ]
+    },
+    {
+      "judul_bagian": "TANDA TANGAN",
+      "kolom": [
+        {
+          "nama": "tandaTanganAtasan",
+          "label": "Leader",
+          "tipe": "signature",
+          "required": true
+        },
+        {
+          "nama": "tandaTanganKaryawan",
+          "label": "Karyawan",
+          "tipe": "signature",
+          "required": true
+        },
+        {
+          "nama": "tandaTanganHRD",
+          "label": "HRD",
+          "tipe": "signature",
+          "required": true
+        },
+        {
+          "nama": "tandaTanganKeuangan",
+          "label": "Finance",
+          "tipe": "signature",
+          "required": true
+        },
+        {
+          "nama": "tandaTanganGA",
+          "label": "General Affair",
+          "tipe": "signature",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "catatan": [
+    "Semua pihak terkait wajib memberikan tanda tangan di form exit interview ini",
+    "Pada setiap tanda tangan, harap diberikan nama terang dan tanggal",
+    "Untuk setiap kolom yang memerlukan konfirmasi dari departemen terkait, harap diberikan Checklist dengan sebenar-benarnya",
+    "Ijazah bisa diambil dengan membawa form exit interview dan mengembalikan semua inventaris Perusahaan, seragam & ID Card"
+  ]
+},
+"data_tanggungan":{
+  "id_pegawai": "EMP00421",
+  "nama_pegawai": "Budi Santoso",
+  "posisi": "Senior Software Engineer",
+  "tanggal_berhenti": "2024-05-20",
+  "label_status_resign": "Belum Memenuhi Syarat",
+  "pesan": "Pegawai masih memiliki tanggungan yang belum selesai. Harap pastikan semua item memiliki status 'done: 2'.",
+  "tanggungan": {
+    "tugasBelumSelesai": [
+      {
+        "id_tugas": "TSK-101",
+        "nama_tugas": "Integrasi Payment Gateway Midtrans",
+        "nama_proyek": "E-Commerce Platform v2.0",
+        "tenggat_waktu": "2024-05-15",
+        "pic": "Ani Wijaya",
+        "done": 1,
+        "keterangan_done": "Budi telah menyerahkan dokumen, menunggu konfirmasi dari Ani."
+      },
+      {
+        "id_tugas": "TSK-105",
+        "nama_tugas": "Optimasi Query Database Laporan Bulanan",
+        "nama_proyek": "Sistem Laporan Keuangan",
+        "tenggat_waktu": "2024-05-25",
+        "pic": "Charlie Pratama",
+        "done": 0,
+        "keterangan_done": "Proses serah terima tugas belum dimulai."
+      }
+    ],
+    "inventarisBelumKembali": [
+      {
+        "idInventaris": "INV-LPT-009",
+        "namaInventaris": "Laptop Lenovo ThinkPad T14",
+        "kategori": "Elektronik",
+        "nomorSeri": "LR12345X7Y",
+        "done": 2,
+        "keterangan_done": "Terkonfirmasi diterima oleh bagian General Affair."
+      },
+      {
+        "idInventaris": "INV-ACC-042",
+        "namaInventaris": "Kartu Akses Gedung",
+        "kategori": "Aksesori",
+        "nomorSeri": null,
+        "done": 1,
+        "keterangan_done": "Budi telah melaporkan hilang dan membayar biaya penggantian, menunggu cetak kartu baru dari GA."
+      }
+    ],
+    "hutangPerusahaan": {
+      "jumlah": 1500000,
+      "mataUang": "IDR",
+      "keterangan": "Pinjaman Koperasi Karyawan",
+      "done": 0,
+      "keterangan_done": "Belum ada pembayaran yang dilakukan."
+    }
+  }
+}
+}
