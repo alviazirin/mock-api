@@ -253,47 +253,45 @@
   "label_status_resign": "Belum Memenuhi Syarat",
   "pesan": "Pegawai masih memiliki tanggungan yang belum selesai. Harap pastikan semua item memiliki status 'done: 2'.",
   "tanggungan": {
-    "tugasBelumSelesai": [
+    "tugas": [
       {
-        "id_tugas": "TSK-101",
-        "nama_tugas": "Integrasi Payment Gateway Midtrans",
-        "nama_proyek": "E-Commerce Platform v2.0",
+        "id": "TSK-101",
+        "nama": "Integrasi Payment Gateway Midtrans",
         "tenggat_waktu": "2024-05-15",
         "pic": "Ani Wijaya",
         "done": 1,
         "keterangan_done": "Budi telah menyerahkan dokumen, menunggu konfirmasi dari Ani."
       },
       {
-        "id_tugas": "TSK-105",
-        "nama_tugas": "Optimasi Query Database Laporan Bulanan",
-        "nama_proyek": "Sistem Laporan Keuangan",
+        "id": "TSK-105",
+        "nama": "Optimasi Query Database Laporan Bulanan",
         "tenggat_waktu": "2024-05-25",
         "pic": "Charlie Pratama",
         "done": 0,
         "keterangan_done": "Proses serah terima tugas belum dimulai."
       }
     ],
-    "inventarisBelumKembali": [
+    "inventaris": [
       {
-        "idInventaris": "INV-LPT-009",
-        "namaInventaris": "Laptop Lenovo ThinkPad T14",
+        "id": "INV-LPT-009",
+        "nama": "Laptop Lenovo ThinkPad T14",
         "kategori": "Elektronik",
         "nomorSeri": "LR12345X7Y",
         "done": 2,
         "keterangan_done": "Terkonfirmasi diterima oleh bagian General Affair."
       },
       {
-        "idInventaris": "INV-ACC-042",
-        "namaInventaris": "Kartu Akses Gedung",
+        "id": "INV-ACC-042",
+        "nama": "Kartu Akses Gedung",
         "kategori": "Aksesori",
         "nomorSeri": null,
         "done": 1,
         "keterangan_done": "Budi telah melaporkan hilang dan membayar biaya penggantian, menunggu cetak kartu baru dari GA."
       }
     ],
-    "hutangPerusahaan": {
+    "hutang": {
       "jumlah": 1500000,
-      "mataUang": "IDR",
+      "mata_uang": "IDR",
       "keterangan": "Pinjaman Koperasi Karyawan",
       "done": 0,
       "keterangan_done": "Belum ada pembayaran yang dilakukan."
