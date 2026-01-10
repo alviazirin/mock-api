@@ -284,7 +284,7 @@
         "id": "INV-ACC-042",
         "nama": "Kartu Akses Gedung",
         "kategori": "Aksesori",
-        "nomorSeri": null,
+        "nomorSeri": "",
         "done": 1,
         "keterangan_done": "Budi telah melaporkan hilang dan membayar biaya penggantian, menunggu cetak kartu baru dari GA."
       }
