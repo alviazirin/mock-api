@@ -164,79 +164,8 @@
           "isRequire": 0
         }
       ]
-    },
-    {
-      "judul_bagian": "VERIFIKASI",
-      "kolom": [
-        {
-          "nama": "kewajibanAtasan",
-          "label": "Karyawan telah melaksanakan semua kewajiban terhadap atasan langsung (Leader)",
-          "tipe": "checkbox",
-          "pilihan": ["Sudah", "Belum"],
-          "departemen": "Atasan Langsung",
-          "isRequire": 1
-        },
-        {
-          "nama": "pengembalianSeragamId",
-          "label": "Karyawan telah mengembalikan seragam & ID Card (HRD)",
-          "tipe": "checkbox",
-          "pilihan": ["Sudah", "Belum"],
-          "departemen": "HRD",
-          "isRequire": 1
-        },
-        {
-          "nama": "pengembalianInventaris",
-          "label": "Karyawan telah mengembalikan semua inventaris perusahaan (General Affair)",
-          "tipe": "checkbox",
-          "pilihan": ["Sudah", "Belum"],
-          "departemen": "General Affair",
-          "isRequire": 1
-        },
-        {
-          "nama": "tanggunganKeuangan",
-          "label": "Karyawan tidak memiliki tanggungan terhadap perusahaan : (Finance)",
-          "tipe": "checkbox",
-          "pilihan": ["Sudah", "Belum"],
-          "departemen": "Keuangan",
-          "isRequire": 1
-        }
-      ]
-    },
-    {
-      "judul_bagian": "TANDA TANGAN",
-      "kolom": [
-        {
-          "nama": "tandaTanganAtasan",
-          "label": "Leader",
-          "tipe": "signature",
-          "isRequire": 1
-        },
-        {
-          "nama": "tandaTanganKaryawan",
-          "label": "Karyawan",
-          "tipe": "signature",
-          "isRequire": 1
-        },
-        {
-          "nama": "tandaTanganHRD",
-          "label": "HRD",
-          "tipe": "signature",
-          "isRequire": 1
-        },
-        {
-          "nama": "tandaTanganKeuangan",
-          "label": "Finance",
-          "tipe": "signature",
-          "isRequire": 1
-        },
-        {
-          "nama": "tandaTanganGA",
-          "label": "General Affair",
-          "tipe": "signature",
-          "isRequire": 1
-        }
-      ]
     }
+   
   ],
   "catatan": [
     "Semua pihak terkait wajib memberikan tanda tangan di form exit interview ini",
