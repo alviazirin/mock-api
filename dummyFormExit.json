@@ -6,53 +6,7 @@
   "perusahaan": "PT DORAN SUKSES INDONESIA",
   "pendahuluan": "Tujuan dari kuesioner ini adalah untuk membantu perusahaan mengetahui pertimbangan atau alasan karyawan melakukan pemutusan hubungan kerja. Perusahaan akan sangat menghargai bila anda memberikan jawaban yang jujur terhadap pertanyaan-pertanyaan yang diutarakan. Jawaban yang anda berikan tidak akan mempengaruhi pertimbangan perusahaan untuk mempekerjakan anda kembali jika anda di masa mendatang hendak bekerja kembali di perusahaan. Tidak satupun informasi yang anda berikan dalam wawancara ini akan disebarkan luaskan kepada perusahaan lain.",
   "bagian": [
-    {
-      "judul_bagian": "DATA KARYAWAN",
-      "kolom": [
-        {
-          "nama": "nama",
-          "label": "Nama",
-          "tipe": "text",
-          "isRequire": 1
-        },
-        {
-          "nama": "posisi",
-          "label": "Posisi",
-          "tipe": "text",
-          "isRequire": 1
-        },
-        {
-          "nama": "divisi",
-          "label": "Divisi",
-          "tipe": "text",
-          "isRequire": 1
-        },
-        {
-          "nama": "namaPerusahaan",
-          "label": "Perusahaan",
-          "tipe": "text",
-          "isRequire": 1
-        },
-        {
-          "nama": "masaKerja",
-          "label": "Masa Kerja",
-          "tipe": "text",
-          "isRequire": 1
-        },
-        {
-          "nama": "areaPenempatan",
-          "label": "Area Penempatan/Cabang",
-          "tipe": "text",
-          "isRequire": 1
-        },
-        {
-          "nama": "tanggalTerakhirBekerja",
-          "label": "Tanggal Terakhir Bekerja",
-          "tipe": "date",
-          "isRequire": 1
-        }
-      ]
-    },
+   
     {
       "judul_bagian": "ALASAN-ALASAN PEMUTUSAN HUBUNGAN KERJA",
       "kolom": [
