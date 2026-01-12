@@ -1,0 +1,31 @@
+{
+  "status": true,
+  "message": "List Pegawai Resign data retrieved successfully",  
+  "data": [
+    {
+      "nama": "Andi Pratama",
+      "divisi": "Engineering",
+      "tanggal": "2025-12-01"
+    },
+    {
+      "nama": "Siti Rahmawati",
+      "divisi": "Human Resource",
+      "tanggal": "2025-12-03"
+    },
+    {
+      "nama": "Budi Santoso",
+      "divisi": "Finance",
+      "tanggal": "2025-12-05"
+    },
+    {
+      "nama": "Dewi Lestari",
+      "divisi": "Product",
+      "tanggal": "2025-12-07"
+    },
+    {
+      "nama": "Rizky Mahendra",
+      "divisi": "Customer Support",
+      "tanggal": "2025-12-10"
+    }
+  ]
+}
