@@ -186,8 +186,7 @@
   { 
     "id": 1,
     "nama":"Divisi",
-    "tanggungan":[
-     
+    "tanggungan":[     
       {
         "id": 1,
         "nama": "Tugas 1",
