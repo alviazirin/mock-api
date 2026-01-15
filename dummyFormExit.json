@@ -180,5 +180,216 @@
       "keterangan_done": "Belum ada pembayaran yang dilakukan."
     }
   }
-}
+},
+
+"tanggungan":[
+  { 
+    "id": 1,
+    "nama":"Divisi",
+    "tanggungan":[
+     
+      {
+        "id": 1,
+        "nama": "Tugas 1",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[         
+        ]        
+      },
+      {
+        "id": 1,
+        "nama": "Tugas 2",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[         
+        ]        
+      }
+    ]
+  },
+  { 
+    "id": 2,
+    "nama":"HRD",
+    "tanggungan":[
+      {
+        "id": 1,
+        "nama": "Seragam Senin",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 2,
+        "nama": "Seragam Selasa",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 3,
+        "nama": "Seragam Rabu",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 4,
+        "nama": "Seragam Kamis",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 5,
+        "nama": "Seragam Sabtu",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 6,
+        "nama": "Menyerahkan Surat Keterangan",
+        "jumlah":1,
+        "wajib_bukti":0, 
+        "done": 0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[         
+        ]        
+      }
+    ]
+  },
+  { 
+    "id": 3,
+    "nama":"GA",
+    "tanggungan":[
+      {
+        "id": 1,
+        "nama": "Laptop",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 2,
+        "nama": "Handphone",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 3,
+        "nama": "Mobil",
+        "jumlah":1,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      }
+    ]
+  },
+  { 
+    "id": 4,
+    "nama":"Admin",
+    "tanggungan":[
+      {
+        "id": 1,
+        "nama": "Uang Kurang",
+        "jumlah":1500000,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      },
+      {
+        "id": 2,
+        "nama": "Hutang",
+        "jumlah":500000,
+        "wajib_bukti":1, 
+        "done": 1,
+        "approved":0,
+        "keterangan": "",
+        "feedback":"",
+        "bukti_foto":[
+          "https://placehold.co/400",
+          "https://placehold.co/400",
+          "https://placehold.co/400"
+        ]        
+      }
+    ]
+  }
+]
 }
