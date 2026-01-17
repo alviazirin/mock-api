@@ -1,0 +1,62 @@
+{
+    "status":true,
+    "message":"Data retrieved successfully",
+    "data":[
+        {
+            "id": 1,
+            "pegawai_id":906,
+            "nama_pegawai": "Alvi Maghfiranto Azirin",
+            "nama_dokumen": "Surat Perintah Dua Belas November (SuperDumber)",
+            "tanggal": "2026-01-17 14:00:23",
+            "tanggal_response": "",
+            "diterima": 0,
+            "jumlah":1,
+            "format_dokumen":"pdf",
+            "file_dokumen":[
+                "https://placehold.co/400"
+            ],
+            "penerima":{
+                "pegawai_id":1697,
+                "nama_pegawai": "M. Syifaul Qulub"
+            }
+        },
+        {
+            "id": 2,
+            "pegawai_id":906,
+            "nama_pegawai": "Alvi Maghfiranto Azirin",
+            "nama_dokumen": "Intruksi Random",
+            "tanggal": "2026-01-16 14:00:23",
+            "tanggal_response": "2026-01-17 14:00:23",
+            "diterima": 1,
+            "jumlah":2,
+            "format_dokumen":"foto",
+            "file_dokumen":[
+                "https://placehold.co/400",
+                "https://placehold.co/400"
+            ],
+            "penerima":{
+                "pegawai_id":6969,
+                "nama_pegawai": "Pegawai Random"
+            }
+        },
+        {
+            "id": 3,
+            "pegawai_id":906,
+            "nama_pegawai": "Alvi Maghfiranto Azirin",
+            "nama_dokumen": "Intruksi Random",
+            "tanggal": "2026-01-16 14:00:23",
+            "tanggal_response": "2026-01-17 14:00:23",
+            "diterima": 2,
+            "jumlah":2,
+            "format_dokumen":"word",
+            "file_dokumen":[
+                "https://placehold.co/400",
+                "https://placehold.co/400"
+            ],
+            "penerima":{
+                "pegawai_id":6969,
+                "nama_pegawai": "Pegawai Random"
+            }
+        }
+    ]
+}
