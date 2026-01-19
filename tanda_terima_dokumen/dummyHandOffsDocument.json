@@ -19,7 +19,7 @@
                 "pegawai_id":906,
                 "nama_pegawai": "Alvi Maghfiranto Azirin"
             },
-            "keterangan":"",
+            "keterangan":"saya memohon memorandum ini agar dapat segera diterima",
             "feedback":""
         },
         {
@@ -40,8 +40,8 @@
                 "pegawai_id":906,
                 "nama_pegawai": "Alvi Maghfiranto Azirin"
             },
-            "keterangan":"",
-            "feedback":""
+            "keterangan":"saya berikan bukti foto",
+            "feedback":"awokee"
         },
         {
             "id": 3,
@@ -62,7 +62,7 @@
                 "nama_pegawai": "Alvi Maghfiranto Azirin"
             },
             "keterangan":"",
-            "feedback":""
+            "feedback":"instruksi tidak jelas, mohon submit ulang"
         }
     ]
 }

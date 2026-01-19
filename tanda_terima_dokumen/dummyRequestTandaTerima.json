@@ -19,7 +19,7 @@
                 "pegawai_id":1697,
                 "nama_pegawai": "M. Syifaul Qulub"
             },
-            "keterangan":"",
+            "keterangan":"Saya mohon agar surat perintah ini dapat segera diterima",
             "feedback":""
         },
         {
@@ -41,7 +41,7 @@
                 "nama_pegawai": "Pegawai Random"
             },
             "keterangan":"",
-            "feedback":""
+            "feedback":"wokeee"
         },
         {
             "id": 3,
@@ -62,7 +62,7 @@
                 "nama_pegawai": "Pegawai Random"
             },
             "keterangan":"",
-            "feedback":""
+            "feedback":"instruksi tidak clear, mohon kirim ulang"
         }
     ]
 }
