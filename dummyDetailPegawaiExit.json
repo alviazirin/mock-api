@@ -12,6 +12,8 @@
         "approved":0,
         "keterangan": "",
         "tipe":2,
+        "isUk":0,
+        "jumlah_uk":0,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -29,6 +31,8 @@
         "approved":0,
         "keterangan": "",
         "tipe":2,
+        "isUk":0,
+        "jumlah_uk":0,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -46,6 +50,8 @@
         "approved":0,
         "keterangan": "",
         "tipe":2,
+        "isUk":0,
+        "jumlah_uk":0,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -63,6 +69,8 @@
         "approved":0,
         "keterangan": "",
         "tipe":2,
+        "isUk":0,
+        "jumlah_uk":0,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -80,6 +88,8 @@
         "approved":0,
         "keterangan": "",
         "tipe":2,
+        "isUk":0,
+        "jumlah_uk":0,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -96,9 +106,13 @@
         "done": 0,
         "keterangan": "",
         "tipe":2,
+        "isUk":0,
+        "jumlah_uk":0,
         "feedback":"",
         "bukti_foto":[         
         ]        
       }
-    ]
+    ],
+    "uang_kurang":6000000
+
 }
