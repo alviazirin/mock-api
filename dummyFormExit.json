@@ -142,6 +142,7 @@
         "wajib_bukti":1, 
         "done": 0,
         "keterangan": "",
+        "tipe": 1,
         "feedback":"",
         "bukti_foto":[         
         ]        
@@ -154,6 +155,7 @@
         "wajib_bukti":1, 
         "done": 0,
         "keterangan": "",
+        "tipe": 1,
         "feedback":"",
         "bukti_foto":[         
         ]        
@@ -173,6 +175,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -189,6 +192,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -205,6 +209,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -221,6 +226,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -237,6 +243,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -252,6 +259,7 @@
         "wajib_bukti":0, 
         "done": 0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[         
         ]        
@@ -271,6 +279,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -287,6 +296,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -303,6 +313,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 2,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -325,6 +336,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 1,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -341,6 +353,7 @@
         "done": 1,
         "approved":0,
         "keterangan": "",
+        "tipe": 1,
         "feedback":"",
         "bukti_foto":[
           "https://placehold.co/400",
@@ -350,5 +363,6 @@
       }
     ]
   }
-]
+],
+"uang_kurang":6000000
 }
