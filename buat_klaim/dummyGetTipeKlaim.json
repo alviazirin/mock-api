@@ -1,0 +1,27 @@
+{
+    "status":true,
+    "message":"Data retrieved successfully",
+    "data":[
+        {
+            "id": 1,
+            "nama": "Makan Minum"
+        },
+        {
+            "id": 2,
+            "nama": "Transportasi"            
+        },
+        {
+            "id": 3,
+            "nama": "Penginapan"            
+        },
+        {
+            "id": 4,
+            "nama": "Bensin"            
+        },
+        {
+            "id": 5,
+            "nama": "Ojek Online"            
+        }
+    ]
+        
+}
