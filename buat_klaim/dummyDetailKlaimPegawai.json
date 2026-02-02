@@ -1,0 +1,142 @@
+{
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "id": 3001,
+      "status": 1,
+      "status_label": "Disetujui",
+      "keterangan": "Reimbursement kunjungan proyek strategis klien cabang Surabaya",
+      "admin": {
+        "kode": 9001,
+        "nama": "Andi Pratama",
+        "nama_divisi": "Finance",
+        "kode_divisi": 88,
+        "nama_label": "Finance Manager"
+      },
+      "klaim": {
+        "id": 15,
+        "nama": "Laporan Pengeluaran Bisnis Q4"
+      },
+      "list_struk": [
+        {
+          "jumlah": 1250000,
+          "gambar_bukti": "/storage/company_docs/boarding_pass_sby.pdf",
+          "tipe_klaim": {
+            "id": 1,
+            "nama": "Transportasi Udara"
+          },
+          "keterangan": "Tiket Pesawat PP Garuda Indonesia - Eksekutif",
+          "approved": 1,
+          "jumlah_reimburse": 1250000,
+          "feedback": "Valid. Sesuai dengan kebijakan perjalanan dinas kelas eksekutif."
+        },
+        {
+          "jumlah": 750000,
+          "gambar_bukti": "/storage/company_docs/hotel_receipt.jpg",
+          "tipe_klaim": {
+            "id": 2,
+            "nama": "Akomodasi"
+          },
+          "keterangan": "Inap Hotel Majapahit (2 Malam)",
+          "approved": 1,
+          "jumlah_reimburse": 750000,
+          "feedback": "Ok"
+        }
+      ]
+    },
+    {
+      "id": 3002,
+      "status": 0,
+      "status_label": "Menunggu Verifikasi",
+      "keterangan": "Pengadaan perlengkapan operasional untuk divisi Human Capital",
+      "admin": {
+        "kode": 9002,
+        "nama": "Rina Kusuma",
+        "nama_divisi": "Finance",
+        "kode_divisi": 88,
+        "nama_label": "Finance Supervisor"
+      },
+      "klaim": {
+        "id": 16,
+        "nama": "Pengajuan Operasional November"
+      },
+      "list_struk": [
+        {
+          "jumlah": 350000,
+          "gambar_bukti": "/storage/company_docs/atk_store.jpg",
+          "tipe_klaim": {
+            "id": 3,
+            "nama": "ATK & Perlengkapan"
+          },
+          "keterangan": "Pembelian kertas HVS A4 dan tinta printer",
+          "approved": 0,
+          "jumlah_reimburse": null,
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id": 3003,
+      "status": 2,
+      "status_label": "Ditolak",
+      "keterangan": "Biaya hiburan makan malam dengan calon mitra",
+      "admin": {
+        "kode": 9001,
+        "nama": "Andi Pratama",
+        "nama_divisi": "Finance",
+        "kode_divisi": 88,
+        "nama_label": "Finance Manager"
+      },
+      "klaim": {
+        "id": 17,
+        "nama": "Entertainment Bisnis"
+      },
+      "list_struk": [
+        {
+          "jumlah": 2500000,
+          "gambar_bukti": "/storage/company_docs/dinner_vip.jpg",
+          "tipe_klaim": {
+            "id": 4,
+            "nama": "Entertainment"
+          },
+          "keterangan": "Makan malam Restoran Internasional (4 Pax)",
+          "approved": 2,
+          "jumlah_reimburse": 0,
+          "feedback": "Ditolak. Melebihi batas limit entertainment per pax sebagaimana tertera di SOP keuangan."
+        }
+      ]
+    },
+    {
+      "id": 3004,
+      "status": 1,
+      "status_label": "Disetujui",
+      "keterangan": "Biaya transportasi taksi untuk kunjungan investor",
+      "admin": {
+        "kode": 9002,
+        "nama": "Rina Kusuma",
+        "nama_divisi": "Finance",
+        "kode_divisi": 88,
+        "nama_label": "Finance Supervisor"
+      },
+      "klaim": {
+        "id": 18,
+        "nama": "Klaim Transportasi Lokal"
+      },
+      "list_struk": [
+        {
+          "jumlah": 150000,
+          "gambar_bukti": "/storage/company_docs/taxi_receipt.jpg",
+          "tipe_klaim": {
+            "id": 5,
+            "nama": "Transportasi Darat"
+          },
+          "keterangan": "GrabCar Eksekutif - Bandara Soetta ke Kantor Pusat",
+          "approved": 1,
+          "jumlah_reimburse": 150000,
+          "feedback": "Setuju. Bukti transaksi elektronik telah terverifikasi."
+        }
+      ]
+    }
+  ]
+}
