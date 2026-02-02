@@ -21,7 +21,7 @@
       "list_struk": [
         {
           "jumlah": 1250000,
-          "gambar_bukti": "/storage/company_docs/boarding_pass_sby.pdf",
+          "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 1,
             "nama": "Transportasi Udara"
@@ -33,7 +33,7 @@
         },
         {
           "jumlah": 750000,
-          "gambar_bukti": "/storage/company_docs/hotel_receipt.jpg",
+          "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 2,
             "nama": "Akomodasi"
@@ -64,7 +64,7 @@
       "list_struk": [
         {
           "jumlah": 350000,
-          "gambar_bukti": "/storage/company_docs/atk_store.jpg",
+          "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 3,
             "nama": "ATK & Perlengkapan"
@@ -95,7 +95,7 @@
       "list_struk": [
         {
           "jumlah": 2500000,
-          "gambar_bukti": "/storage/company_docs/dinner_vip.jpg",
+          "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 4,
             "nama": "Entertainment"
@@ -126,7 +126,7 @@
       "list_struk": [
         {
           "jumlah": 150000,
-          "gambar_bukti": "/storage/company_docs/taxi_receipt.jpg",
+          "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 5,
             "nama": "Transportasi Darat"
