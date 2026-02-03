@@ -18,7 +18,8 @@
         "nama": "Laporan Pengeluaran Bisnis Q4"
       },
       "list_struk": [
-        {
+        { 
+          "id":1,
           "jumlah": 10000000,
           "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
@@ -30,7 +31,8 @@
           "jumlah_reimburse": null,
           "feedback": null
         },
-        {
+        {  
+          "id":2,
           "jumlah": 500000,
           "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
@@ -42,7 +44,8 @@
           "jumlah_reimburse": 0,
           "feedback": "Tidak masuk dalam kategori klaim"
         },
-        {
+        { 
+          "id":3,
           "jumlah": 1250000,
           "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
@@ -54,7 +57,8 @@
           "jumlah_reimburse": null,
           "feedback": null
         },
-        {
+        {  
+          "id":4,
           "jumlah": 750000,
           "gambar_bukti": "https://picsum.photos/400/300",
           "tipe_klaim": {
