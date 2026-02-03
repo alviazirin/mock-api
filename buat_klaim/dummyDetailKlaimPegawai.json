@@ -42,9 +42,9 @@
             "nama": "Lain Lain"
           },
           "keterangan": "Pijat refleksi untuk relaksasi karena tidak rileks",
-          "approved": 2,
-          "jumlah_reimburse": 0,
-          "feedback": "Tidak masuk dalam kategori klaim"
+          "approved": 0,
+          "jumlah_reimburse": null,
+          "feedback": null
         },
         { 
           "id":3,
@@ -70,9 +70,9 @@
             "nama": "Penginapan"
           },
           "keterangan": "Inap Hotel Majapahit (2 Malam)",
-          "approved": 1,
-          "jumlah_reimburse": 750000,
-          "feedback": "Ok"
+          "approved": 0,
+          "jumlah_reimburse": null,
+          "feedback": null
         }
       ]
     }
