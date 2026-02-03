@@ -22,6 +22,7 @@
           "id":1,
           "jumlah": 10000000,
           "gambar_bukti": "https://picsum.photos/400/300",
+          "gambar_bukti_ol": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 1,
             "nama": "Makan Minum"
@@ -35,6 +36,7 @@
           "id":2,
           "jumlah": 500000,
           "gambar_bukti": "https://picsum.photos/400/300",
+          "gambar_bukti_ol": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 99,
             "nama": "Lain Lain"
@@ -48,6 +50,7 @@
           "id":3,
           "jumlah": 1250000,
           "gambar_bukti": "https://picsum.photos/400/300",
+          "gambar_bukti_ol": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 2,
             "nama": "Transportasi"
@@ -61,6 +64,7 @@
           "id":4,
           "jumlah": 750000,
           "gambar_bukti": "https://picsum.photos/400/300",
+          "gambar_bukti_ol": "https://picsum.photos/400/300",
           "tipe_klaim": {
             "id": 3,
             "nama": "Penginapan"
