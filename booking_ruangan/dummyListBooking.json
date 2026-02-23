@@ -1,0 +1,70 @@
+{
+  "status": "sukses",
+  "message": "Data peminjaman berhasil dimuat",
+  "data": [
+    {
+      "id_peminjaman": "PMJ-2026-001",
+      "ruangan": {
+        "id_ruangan": "RNG-01",
+        "nama_ruangan": "Ruang Rapat Melati",
+        "lokasi": "Lantai 2"
+      },
+      "peminjam": {
+        "nama_lengkap": "Rizky Darmawan",
+        "divisi": "Teknologi Informasi",
+        "kontak": "0812-3456-7890"
+      },
+      "jadwal": {
+        "tanggal_pinjam": "2026-03-10",
+        "jam_mulai": "08:00",
+        "jam_selesai": "10:30"
+      },
+      "tujuan_keperluan": "Koordinasi Proyek Semester 1",
+      "status": 1,
+      "tanggal_pengajuan": "2026-02-23T09:00:00Z"
+    },
+    {
+      "id_peminjaman": "PMJ-2026-002",
+      "ruangan": {
+        "id_ruangan": "RNG-05",
+        "nama_ruangan": "Aula Serbaguna",
+        "lokasi": "Gedung B, Lantai 1"
+      },
+      "peminjam": {
+        "nama_lengkap": "Sari Wijaya",
+        "divisi": "Sumber Daya Manusia",
+        "kontak": "sari.hrd@perusahaan.id"
+      },
+      "jadwal": {
+        "tanggal_pinjam": "2026-03-15",
+        "jam_mulai": "13:00",
+        "jam_selesai": "16:00"
+      },
+      "tujuan_keperluan": "Pelatihan Karyawan Baru",
+      "status": 0,
+      "tanggal_pengajuan": "2026-02-23T14:20:00Z"
+    },
+    {
+      "id_peminjaman": "PMJ-2026-003",
+      "ruangan": {
+        "id_ruangan": "RNG-02",
+        "nama_ruangan": "Ruang Kreatif",
+        "lokasi": "Lantai 3"
+      },
+      "peminjam": {
+        "nama_lengkap": "Bambang Sudjatmiko",
+        "divisi": "Pemasaran",
+        "kontak": "bambang@perusahaan.id"
+      },
+      "jadwal": {
+        "tanggal_pinjam": "2026-03-05",
+        "jam_mulai": "09:00",
+        "jam_selesai": "11:00"
+      },
+      "tujuan_keperluan": "Sesi Foto Produk",
+      "status": 2,
+      "feedback": "Ruangan sedang dalam tahap renovasi rutin",
+      "tanggal_pengajuan": "2026-02-22T11:00:00Z"
+    }
+  ]
+}
