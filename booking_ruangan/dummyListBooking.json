@@ -1,5 +1,5 @@
 {
-  "status": "sukses",
+  "status": true,
   "message": "Data peminjaman berhasil dimuat",
   "data": [
     {
