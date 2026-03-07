@@ -1,0 +1,75 @@
+{
+  "status": "sukses",
+  "data": [
+    {
+      "kota": "Jakarta",
+      "id_cabang": "JKT-HQ",
+      "nama_cabang": "Kantor Pusat Jakarta",
+      "ruangan": [
+        {
+          "id_ruangan": "JKT-R-01",
+          "nama_ruangan": "Ruang Garuda",
+          "kapasitas": 12,
+          "lantai": 5,
+          "fasilitas": ["TV", "Whiteboard", "Video Conference"]
+        },
+        {
+          "id_ruangan": "JKT-R-02",
+          "nama_ruangan": "Ruang Merak",
+          "kapasitas": 8,
+          "lantai": 5,
+          "fasilitas": ["TV", "Whiteboard"]
+        },
+        {
+          "id_ruangan": "JKT-R-03",
+          "nama_ruangan": "Ruang Komodo",
+          "kapasitas": 4,
+          "lantai": 3,
+          "fasilitas": ["TV"]
+        }
+      ]
+    },
+    {
+      "kota": "Surabaya",
+      "id_cabang": "SBY-01",
+      "nama_cabang": "Kantor Regional Surabaya",
+      "ruangan": [
+        {
+          "id_ruangan": "SBY-R-01",
+          "nama_ruangan": "Ruang Bromo",
+          "kapasitas": 10,
+          "lantai": 2,
+          "fasilitas": ["TV", "Video Conference"]
+        },
+        {
+          "id_ruangan": "SBY-R-02",
+          "nama_ruangan": "Ruang Semeru",
+          "kapasitas": 6,
+          "lantai": 2,
+          "fasilitas": ["Whiteboard"]
+        }
+      ]
+    },
+    {
+      "kota": "Bandung",
+      "id_cabang": "BDG-01",
+      "nama_cabang": "Kantor Teknologi Bandung",
+      "ruangan": [
+        {
+          "id_ruangan": "BDG-R-01",
+          "nama_ruangan": "Ruang Tangkuban Perahu",
+          "kapasitas": 10,
+          "lantai": 4,
+          "fasilitas": ["TV", "Whiteboard", "Video Conference"]
+        },
+        {
+          "id_ruangan": "BDG-R-02",
+          "nama_ruangan": "Ruang Kawah Putih",
+          "kapasitas": 6,
+          "lantai": 4,
+          "fasilitas": ["TV"]
+        }
+      ]
+    }
+  ]
+}
