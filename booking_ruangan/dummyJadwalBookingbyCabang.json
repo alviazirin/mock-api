@@ -1,0 +1,87 @@
+{
+    "status":true,
+    "data":[
+        {
+    "id_ruangan": "SBY-R-01",
+    "nama_ruangan": "Ruang Meeting Besar",
+    "nama_cabang": "Kantor Regional Surabaya",
+    "kota": "Surabaya",
+    "kapasitas": 10,
+    "fasilitas": [
+      "TV",
+      "Video Conference",
+      "Whiteboard"
+    ],
+    "pemesanan": [
+      {
+        "id_pemesanan": "BOOK-1001",
+        "tanggal": "2026-03-10",
+        "jam_mulai": "08:00",
+        "jam_selesai": "09:00",
+        "tim": "Tim HR",
+        "dipesan_oleh": "Dewi Lestari",
+        "agenda": "Interview Kandidat"
+      },
+      {
+        "id_pemesanan": "BOOK-1002",
+        "tanggal": "2026-03-10",
+        "jam_mulai": "10:00",
+        "jam_selesai": "11:30",
+        "tim": "Tim Engineering",
+        "dipesan_oleh": "Rizky Pratama",
+        "agenda": "Sprint Planning"
+      },
+      {
+        "id_pemesanan": "BOOK-1003",
+        "tanggal": "2026-03-11",
+        "jam_mulai": "13:00",
+        "jam_selesai": "14:00",
+        "tim": "Tim Marketing",
+        "dipesan_oleh": "Sinta Maharani",
+        "agenda": "Campaign Discussion"
+      }
+    ]
+  },
+      {
+    "id_ruangan": "SBY-R-02",
+    "nama_ruangan": "Ruang Meeting Kecil",
+    "nama_cabang": "Kantor Regional Surabaya",
+    "kota": "Surabaya",
+    "kapasitas": 10,
+    "fasilitas": [
+      "TV",
+      "Video Conference",
+      "Whiteboard"
+    ],
+    "pemesanan": [
+      {
+        "id_pemesanan": "BOOK-1001",
+        "tanggal": "2026-03-10",
+        "jam_mulai": "08:00",
+        "jam_selesai": "09:00",
+        "tim": "Tim HR",
+        "dipesan_oleh": "Dewi Lestari",
+        "agenda": "Interview Kandidat"
+      },
+      {
+        "id_pemesanan": "BOOK-1002",
+        "tanggal": "2026-03-10",
+        "jam_mulai": "10:00",
+        "jam_selesai": "11:30",
+        "tim": "Tim Engineering",
+        "dipesan_oleh": "Rizky Pratama",
+        "agenda": "Sprint Planning"
+      },
+      {
+        "id_pemesanan": "BOOK-1003",
+        "tanggal": "2026-03-11",
+        "jam_mulai": "13:00",
+        "jam_selesai": "14:00",
+        "tim": "Tim Marketing",
+        "dipesan_oleh": "Sinta Maharani",
+        "agenda": "Campaign Discussion"
+      }
+    ]
+  }
+    ]
+}
