@@ -1,0 +1,68 @@
+{
+  "status": true,
+  "message":"success",
+  "data": [
+    {
+      "id_surat": "PROM-2023-088",
+      "tipe_surat": "Surat Keputusan Promosi",
+      "tanggal_pengiriman": "2023-12-01",
+      "judul_surat": "Kenaikan Jabatan dan Tanggung Jawab Baru",
+      "keterangan_surat": "Berdasarkan penilaian kinerja tahunan, Saudara dipromosikan dari Junior Designer menjadi Senior Creative Lead dengan penyesuaian grade gaji dan tunjangan kepemimpinan.",
+      "detail_karyawan": {
+        "nik": "2020020015",
+        "nama_lengkap": "Rian Hidayat",
+        "jabatan_saat_ini": "Junior Designer",
+        "departemen": "Creative Media",
+        "email": "rian.h@perusahaan.com"
+      },
+      "sudah_diterima": 1,
+      "tanggal_diterima": "2023-12-01T10:00:00Z",
+      "keterangan_karyawan": "Terima kasih atas kepercayaan manajemen. Saya siap mengemban tanggung jawab baru ini.",
+      "feedback_admin": "Selamat atas pencapaian Anda. Silakan hubungi HRD untuk penandatanganan adendum kontrak.",
+      "status_final": "Completed"
+    },
+    {
+      "id_surat": "DEMO-2023-012",
+      "tipe_surat": "Surat Keputusan Demosi",
+      "tanggal_pengiriman": "2023-12-05",
+      "judul_surat": "Penyesuaian Jabatan dan Tingkat Manajerial",
+      "keterangan_surat": "Sehubungan dengan hasil evaluasi integritas dan performa kepemimpinan, perusahaan memutuskan untuk memindahkan Saudara kembali ke posisi Staff Senior dari posisi sebelumnya (Manager Store).",
+      "detail_karyawan": {
+        "nik": "2018110009",
+        "nama_lengkap": "Eka Saputra",
+        "jabatan_saat_ini": "Manager Store",
+        "departemen": "Retail Operations",
+        "email": "eka.saputra@perusahaan.com"
+      },
+      "sudah_diterima": 1,
+      "tanggal_diterima": "2023-12-06T08:15:00Z",
+      "keterangan_karyawan": "Saya menerima keputusan ini dan akan berusaha memperbaiki performa di posisi yang baru.",
+      "feedback_admin": "Keputusan ini bersifat final. Kami harap Anda tetap berkontribusi maksimal pada tim operasional.",
+      "status_final": "Processed"
+    },
+    {
+      "id_surat": "MUTA-2023-045",
+      "tipe_surat": "Surat Keputusan Mutasi",
+      "tanggal_pengiriman": "2023-12-10",
+      "judul_surat": "Pemindahan Lokasi Kerja (Relokasi)",
+      "keterangan_surat": "Untuk pemenuhan kebutuhan operasional cabang baru, Saudara ditugaskan untuk mutasi dari Kantor Pusat (Jakarta) ke Kantor Cabang Pembantu (Surabaya) terhitung mulai tanggal 1 Januari.",
+      "detail_karyawan": {
+        "nik": "2021070112",
+        "nama_lengkap": "Diana Putri",
+        "jabatan_saat_ini": "Account Officer",
+        "departemen": "Finance & Accounting",
+        "email": "diana.p@perusahaan.com"
+      },
+      "sudah_diterima": 0,
+      "tanggal_diterima": null,
+      "keterangan_karyawan": null,
+      "feedback_admin": null,
+      "status_final": "Waiting Acknowledgement"
+    }
+  ],
+  "pagination": {
+    "total_items": 3,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}
