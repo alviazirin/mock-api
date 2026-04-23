@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id_surat": "ST-2023-001",
+      "tipe_surat": "Surat Teguran",
+      "tanggal_pengiriman": "2023-10-15",
+      "judul_surat": "Teguran Kedisiplinan: Keterlambatan Absensi",
+      "isi_surat": "Berdasarkan catatan kehadiran periode awal Oktober, Saudara ditemukan terlambat lebih dari 3 kali tanpa keterangan yang sah.",
+      "detail_karyawan": {
+        "nik": "2021050042",
+        "nama_lengkap": "Andi Pratama",
+        "jabatan": "Staff Operasional",
+        "departemen": "Logistik",
+        "email": "andi.pratama@perusahaan.com"
+      },
+      "sudah_diterima": 1,
+      "tanggal_diterima": "2023-10-16T09:00:00Z",
+      "keterangan_karyawan": "Mohon maaf, keterlambatan dikarenakan ada perbaikan jalan utama di rute rumah saya.",
+      "feedback_admin": "",
+      "status_final": "Closed"
+    },
+    {
+      "id_surat": "SP-2023-005",
+      "tipe_surat": "Surat Peringatan 1 (SP1)",
+      "tanggal_pengiriman": "2023-11-02",
+      "judul_surat": "Pelanggaran Kode Etik dan SOP Kerja",
+      "isi_surat": "Saudara ditemukan melanggar SOP keamanan data perusahaan dengan memberikan akses login kepada pihak luar.",
+      "detail_karyawan": {
+        "nik": "2019080012",
+        "nama_lengkap": "Siti Aminah",
+        "jabatan": "Senior Developer",
+        "departemen": "Teknologi Informasi",
+        "email": "siti.aminah@perusahaan.com"
+      },
+      "sudah_diterima": 0,
+      "tanggal_diterima": null,
+      "keterangan_karyawan": null,
+      "feedback_admin": null,
+      "status_final": "Pending"
+    },
+    {
+      "id_surat": "SP-2023-010",
+      "tipe_surat": "Surat Peringatan 2 (SP2)",
+      "tanggal_pengiriman": "2023-11-10",
+      "judul_surat": "Peringatan Lanjutan: Kinerja Di Bawah Target",
+      "isi_surat": "Kinerja Saudara dalam 3 bulan terakhir tetap berada di bawah standar minimum KPI perusahaan (60%).",
+      "detail_karyawan": {
+        "nik": "2022010099",
+        "nama_lengkap": "Budi Santoso",
+        "jabatan": "Sales Executive",
+        "departemen": "Sales & Marketing",
+        "email": "budi.s@perusahaan.com"
+      },
+      "sudah_diterima": 1,
+      "tanggal_diterima": "2023-11-11T14:30:00Z",
+      "keterangan_karyawan": "Saya sedang mengalami kendala kesehatan keluarga yang mengganggu fokus kerja.",
+      "feedback_admin": "Kami akan menjadwalkan sesi konseling untuk membahas solusi kendala Anda.",
+      "status_final": "Under Review"
+    }
+  ],
+  "pagination": {
+    "total_items": 3,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}
