@@ -19,7 +19,8 @@
       "tanggal_diterima": "2023-12-01T10:00:00Z",
       "keterangan_karyawan": "Terima kasih atas kepercayaan manajemen. Saya siap mengemban tanggung jawab baru ini.",
       "feedback_admin": "Selamat atas pencapaian Anda. Silakan hubungi HRD untuk penandatanganan adendum kontrak.",
-      "status_final": "Completed"
+      "status_final": "Completed",
+      "url": "https://doran.id/"
     },
     {
       "id_surat": "DEMO-2023-012",
@@ -38,7 +39,8 @@
       "tanggal_diterima": "2023-12-06T08:15:00Z",
       "keterangan_karyawan": "Saya menerima keputusan ini dan akan berusaha memperbaiki performa di posisi yang baru.",
       "feedback_admin": "Keputusan ini bersifat final. Kami harap Anda tetap berkontribusi maksimal pada tim operasional.",
-      "status_final": "Processed"
+      "status_final": "Processed",
+      "url": "https://doran.id/"
     },
     {
       "id_surat": "MUTA-2023-045",
@@ -57,7 +59,8 @@
       "tanggal_diterima": null,
       "keterangan_karyawan": null,
       "feedback_admin": null,
-      "status_final": "Waiting Acknowledgement"
+      "status_final": "Waiting Acknowledgement",
+      "url": "https://doran.id/"
     }
   ],
   "pagination": {

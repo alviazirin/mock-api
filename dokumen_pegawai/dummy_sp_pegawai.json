@@ -19,7 +19,8 @@
       "tanggal_diterima": "2023-10-16T09:00:00Z",
       "keterangan_karyawan": "Mohon maaf, keterlambatan dikarenakan ada perbaikan jalan utama di rute rumah saya.",
       "feedback_admin": "",
-      "status_final": "Closed"
+      "status_final": "Closed",
+      "url": "https://doran.id/"
     },
     {
       "id_surat": "SP-2023-005",
@@ -38,7 +39,8 @@
       "tanggal_diterima": null,
       "keterangan_karyawan": null,
       "feedback_admin": null,
-      "status_final": "Pending"
+      "status_final": "Pending",
+      "url": "https://doran.id/"
     },
     {
       "id_surat": "SP-2023-010",
@@ -57,7 +59,8 @@
       "tanggal_diterima": "2023-11-11T14:30:00Z",
       "keterangan_karyawan": "Saya sedang mengalami kendala kesehatan keluarga yang mengganggu fokus kerja.",
       "feedback_admin": "Kami akan menjadwalkan sesi konseling untuk membahas solusi kendala Anda.",
-      "status_final": "Under Review"
+      "status_final": "Under Review",
+      "url": "https://doran.id/"
     }
   ],
   "pagination": {
