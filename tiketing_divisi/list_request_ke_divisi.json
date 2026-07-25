@@ -1,0 +1,164 @@
+{
+  "status": "sukses",
+  "pesan": "Berhasil mengambil daftar tiket masuk untuk Tim Programmer",
+  "data": [
+    {
+      "id": 2045,
+      "nomor_tiket": "DEV-20260725-001",
+      "judul": "Integrasi Pixel & Event Tracking Campaign Promo Agustus",
+      "deskripsi": "Mohon pasang event tracking Meta Pixel dan Google Tag Manager pada tombol checkout aplikasi untuk melacak konversi campaign promo bulan depan.",
+      "prioritas": 3,
+      "prioritas_label": "tinggi",
+      "status": 0,
+      "status_label": "open",
+      "tanggal_dibuat": "2026-07-25T09:00:00Z",
+      "tanggal_diperbarui": "2026-07-25T09:00:00Z",
+      "batas_waktu": "2026-07-28T17:00:00Z",
+      "pemohon": {
+        "id": 301,
+        "nama": "Dian Pratama",
+        "email": "dian.p@perusahaan.com",
+        "foto_profil_url": "https://storage.perusahaan.com/avatars/301.jpg",
+        "divisi": {
+          "id": 3,
+          "nama": "Digital Marketing"
+        }
+      },
+      "divisi_tujuan": {
+        "id": 1,
+        "nama": "IT & Software Engineering"
+      },
+      "penanggung_jawab": null,
+      "jumlah_lampiran": 1,
+      "lampiran": [
+        {
+          "id": 901,
+          "nama_file": "dokumen_tracking_spec.pdf",
+          "ukuran_file_bytes": 524288,
+          "tipe_file": "application/pdf",
+          "url_file": "https://storage.perusahaan.com/tiket/901.pdf"
+        }
+      ],
+      "jumlah_komentar": 0
+    },
+    {
+      "id": 2042,
+      "nomor_tiket": "DEV-20260724-012",
+      "judul": "Slicing UI & API Contract Fitur Voucher Diskon Otomatis",
+      "deskripsi": "Fitur baru penukaran voucher otomatis saat checkout berdasarkan kalkulasi poin pengguna. Desain Figma dan PRD sudah final.",
+      "prioritas": 3,
+      "prioritas_label": "tinggi",
+      "status": 1,
+      "status_label": "in_progress",
+      "tanggal_dibuat": "2026-07-24T11:30:00Z",
+      "tanggal_diperbarui": "2026-07-24T14:00:00Z",
+      "batas_waktu": "2026-07-30T17:00:00Z",
+      "pemohon": {
+        "id": 202,
+        "nama": "Rian Kusuma",
+        "email": "rian.k@perusahaan.com",
+        "foto_profil_url": "https://storage.perusahaan.com/avatars/202.jpg",
+        "divisi": {
+          "id": 2,
+          "nama": "Product Management"
+        }
+      },
+      "divisi_tujuan": {
+        "id": 1,
+        "nama": "IT & Software Engineering"
+      },
+      "penanggung_jawab": {
+        "id": 102,
+        "nama": "Fikri Haikal",
+        "email": "fikri.h@perusahaan.com",
+        "foto_profil_url": "https://storage.perusahaan.com/avatars/102.jpg"
+      },
+      "jumlah_lampiran": 1,
+      "lampiran": [
+        {
+          "id": 902,
+          "nama_file": "link_figma_voucher_v2.txt",
+          "ukuran_file_bytes": 120,
+          "tipe_file": "text/plain",
+          "url_file": "https://storage.perusahaan.com/tiket/902.txt"
+        }
+      ],
+      "jumlah_komentar": 4
+    },
+    {
+      "id": 2038,
+      "nomor_tiket": "DEV-20260723-008",
+      "judul": "Bantu Extract Data User Aktif untuk Giveaway Instagram",
+      "deskripsi": "Perlu query data user yang melakukan transaksi minimal 3 kali selama bulan Juli untuk diundi di live IG minggu depan.",
+      "prioritas": 2,
+      "prioritas_label": "sedang",
+      "status": 0,
+      "status_label": "open",
+      "tanggal_dibuat": "2026-07-23T14:15:00Z",
+      "tanggal_diperbarui": "2026-07-23T14:15:00Z",
+      "batas_waktu": "2026-07-27T12:00:00Z",
+      "pemohon": {
+        "id": 405,
+        "nama": "Siska Putri",
+        "email": "siska.p@perusahaan.com",
+        "foto_profil_url": "https://storage.perusahaan.com/avatars/405.jpg",
+        "divisi": {
+          "id": 4,
+          "nama": "Social Media & Community"
+        }
+      },
+      "divisi_tujuan": {
+        "id": 1,
+        "nama": "IT & Software Engineering"
+      },
+      "penanggung_jawab": null,
+      "jumlah_lampiran": 0,
+      "lampiran": [],
+      "jumlah_komentar": 1
+    },
+    {
+      "id": 2030,
+      "nomor_tiket": "DEV-20260721-003",
+      "judul": "Perbaikan Kompresi Gambar Banner Aplikasi",
+      "deskripsi": "Banner kustom yang diunggah dari dashboard admin pecah dan terlalu buram saat ditampilkan di screen resolusi tinggi (Retina/AMOLED).",
+      "prioritas": 1,
+      "prioritas_label": "rendah",
+      "status": 2,
+      "status_label": "resolved",
+      "tanggal_dibuat": "2026-07-21T10:00:00Z",
+      "tanggal_diperbarui": "2026-07-22T16:30:00Z",
+      "batas_waktu": "2026-07-25T17:00:00Z",
+      "pemohon": {
+        "id": 502,
+        "nama": "Andi Wijaya",
+        "email": "andi.w@perusahaan.com",
+        "foto_profil_url": "https://storage.perusahaan.com/avatars/502.jpg",
+        "divisi": {
+          "id": 5,
+          "nama": "Creative & Design"
+        }
+      },
+      "divisi_tujuan": {
+        "id": 1,
+        "nama": "IT & Software Engineering"
+      },
+      "penanggung_jawab": {
+        "id": 105,
+        "nama": "Eko Prasetyo",
+        "email": "eko.p@perusahaan.com",
+        "foto_profil_url": "https://storage.perusahaan.com/avatars/105.jpg"
+      },
+      "jumlah_lampiran": 1,
+      "lampiran": [
+        {
+          "id": 905,
+          "nama_file": "contoh_banner_blurry.png",
+          "ukuran_file_bytes": 2097152,
+          "tipe_file": "image/png",
+          "url_file": "https://storage.perusahaan.com/tiket/905.png"
+        }
+      ],
+      "jumlah_komentar": 2
+    }
+  ]
+}
