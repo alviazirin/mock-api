@@ -1,6 +1,6 @@
 {
-  "status": "sukses",
-  "pesan": "Berhasil mengambil daftar tiket masuk untuk Tim Programmer",
+  "status": true,
+  "message": "Berhasil mengambil daftar tiket masuk untuk Tim Programmer",
   "data": [
     {
       "id": 2045,
